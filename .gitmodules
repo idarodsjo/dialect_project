@@ -1,0 +1,3 @@
+[submodule "did_prosody_whisper"]
+	path = did_prosody_whisper
+	url = https://github.com/scribe-project/did_prosody_whisper.git
