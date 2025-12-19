@@ -1,0 +1,355 @@
+,municipality,county,dialect
+0,Oslo,Oslo,Oslo
+1,Eigersund,Rogaland,Sørvestlandsk
+2,Stavanger,Rogaland,Sørvestlandsk
+3,Haugesund,Rogaland,Sørvestlandsk
+4,Sandnes,Rogaland,Sørvestlandsk
+5,Sokndal,Rogaland,Sørvestlandsk
+6,Lund,Rogaland,Sørvestlandsk
+7,Bjerkreim,Rogaland,Sørvestlandsk
+8,Hå,Rogaland,Sørvestlandsk
+9,Klepp,Rogaland,Sørvestlandsk
+10,Time,Rogaland,Sørvestlandsk
+11,Gjesdal,Rogaland,Sørvestlandsk
+12,Sola,Rogaland,Sørvestlandsk
+13,Randaberg,Rogaland,Sørvestlandsk
+14,Strand,Rogaland,Sørvestlandsk
+15,Hjelmeland,Rogaland,Sørvestlandsk
+16,Suldal,Rogaland,Sørvestlandsk
+17,Sauda,Rogaland,Sørvestlandsk
+18,Kvitsøy,Rogaland,Sørvestlandsk
+19,Bokn,Rogaland,Sørvestlandsk
+20,Tysvær,Rogaland,Sørvestlandsk
+21,Karmøy,Rogaland,Sørvestlandsk
+22,Utsira,Rogaland,Sørvestlandsk
+23,Vindafjord,Rogaland,Sørvestlandsk
+24,Kristiansund,Møre og Romsdal,Nordvestlandsk
+25,Molde,Møre og Romsdal,Nordvestlandsk
+26,Ålesund,Møre og Romsdal,Nordvestlandsk
+27,Vanylven,Møre og Romsdal,Nordvestlandsk
+28,Sande,Møre og Romsdal,Nordvestlandsk
+29,Herøy,Nordland,Nordlandsk
+30,Ulstein,Møre og Romsdal,Nordvestlandsk
+31,Hareid,Møre og Romsdal,Nordvestlandsk
+32,Ørsta,Møre og Romsdal,Nordvestlandsk
+33,Stranda,Møre og Romsdal,Nordvestlandsk
+34,Sykkylven,Møre og Romsdal,Nordvestlandsk
+35,Sula,Møre og Romsdal,Nordvestlandsk
+36,Giske,Møre og Romsdal,Nordvestlandsk
+37,Vestnes,Møre og Romsdal,Nordvestlandsk
+38,Rauma,Møre og Romsdal,Nordvestlandsk
+39,Aukra,Møre og Romsdal,Nordvestlandsk
+40,Averøy,Møre og Romsdal,Nordvestlandsk
+41,Gjemnes,Møre og Romsdal,Nordvestlandsk
+42,Tingvoll,Møre og Romsdal,Nordvestlandsk
+43,Sunndal,Møre og Romsdal,Nordvestlandsk
+44,Surnadal,Møre og Romsdal,Nordvestlandsk
+45,Smøla,Møre og Romsdal,Nordvestlandsk
+46,Aure,Møre og Romsdal,Nordvestlandsk
+47,Volda,Møre og Romsdal,Nordvestlandsk
+48,Fjord,Møre og Romsdal,Nordvestlandsk
+49,Hustadvika,Møre og Romsdal,Nordvestlandsk
+50,Bodø,Nordland,Nordlandsk
+51,Narvik,Nordland,Nordlandsk
+52,Bindal,Nordland,Nordlandsk
+53,Sømna,Nordland,Nordlandsk
+54,Brønnøy,Nordland,Nordlandsk
+55,Vega,Nordland,Nordlandsk
+56,Vevelstad,Nordland,Nordlandsk
+57,Alstahaug,Nordland,Nordlandsk
+58,Leirfjord,Nordland,Nordlandsk
+59,Vefsn,Nordland,Nordlandsk
+60,Grane,Nordland,Nordlandsk
+61,Hattfjelldal,Nordland,Nordlandsk
+62,Dønna,Nordland,Nordlandsk
+63,Nesna,Nordland,Nordlandsk
+64,Hemnes,Nordland,Nordlandsk
+65,Rana,Nordland,Nordlandsk
+66,Lurøy,Nordland,Nordlandsk
+67,Træna,Nordland,Nordlandsk
+68,Rødøy,Nordland,Nordlandsk
+69,Meløy,Nordland,Nordlandsk
+70,Gildeskål,Nordland,Nordlandsk
+71,Beiarn,Nordland,Nordlandsk
+72,Saltdal,Nordland,Nordlandsk
+73,Fauske,Nordland,Nordlandsk
+74,Sørfold,Nordland,Nordlandsk
+75,Steigen,Nordland,Nordlandsk
+76,Lødingen,Nordland,Nordlandsk
+77,Evenes,Nordland,Nordlandsk
+78,Røst,Nordland,Nordlandsk
+79,Værøy,Nordland,Nordlandsk
+80,Flakstad,Nordland,Nordlandsk
+81,Vestvågøy,Nordland,Nordlandsk
+82,Vågan,Nordland,Nordlandsk
+83,Hadsel,Nordland,Nordlandsk
+84,Bø,Nordland,Nordlandsk
+85,Øksnes,Nordland,Nordlandsk
+86,Sortland,Nordland,Nordlandsk
+87,Andøy,Nordland,Nordlandsk
+88,Moskenes,Nordland,Nordlandsk
+89,Hamarøy,Nordland,Nordlandsk
+90,Halden,Viken,Vikværsk
+91,Moss,Viken,Vikværsk
+92,Sarpsborg,Viken,Vikværsk
+93,Fredrikstad,Viken,Vikværsk
+94,Drammen,Viken,Vikværsk
+95,Kongsberg,Viken,Vikværsk
+96,Ringerike,Viken,Vikværsk
+97,Hvaler,Viken,Vikværsk
+98,Aremark,Viken,Vikværsk
+99,Marker,Viken,Vikværsk
+100,Indre Østfold,Viken,Vikværsk
+101,Skiptvet,Viken,Vikværsk
+102,Rakkestad,Viken,Vikværsk
+103,Råde,Viken,Vikværsk
+104,Våler,Innlandet,Midlandsk
+105,Vestby,Viken,Vikværsk
+106,Nordre Follo,Viken,Vikværsk
+107,Ås,Viken,Vikværsk
+108,Frogn,Viken,Vikværsk
+109,Nesodden,Viken,Vikværsk
+110,Bærum,Viken,Vikværsk
+111,Asker,Viken,Vikværsk
+112,Aurskog-Høland,Viken,Vikværsk
+113,Rælingen,Viken,Vikværsk
+114,Enebakk,Viken,Vikværsk
+115,Lørenskog,Viken,Vikværsk
+116,Lillestrøm,Viken,Vikværsk
+117,Nittedal,Viken,Vikværsk
+118,Gjerdrum,Viken,Vikværsk
+119,Ullensaker,Viken,Vikværsk
+120,Nes,Viken,Vikværsk
+121,Eidsvoll,Viken,Vikværsk
+122,Nannestad,Viken,Vikværsk
+123,Hurdal,Viken,Vikværsk
+124,Hole,Viken,Vikværsk
+125,Flå,Viken,Vikværsk
+126,Nesbyen,Viken,Vikværsk
+127,Gol,Viken,Vikværsk
+128,Hemsedal,Viken,Vikværsk
+129,Ål,Viken,Vikværsk
+130,Hol,Viken,Vikværsk
+131,Sigdal,Viken,Vikværsk
+132,Krødsherad,Viken,Vikværsk
+133,Modum,Viken,Vikværsk
+134,Øvre Eiker,Viken,Vikværsk
+135,Lier,Viken,Vikværsk
+136,Flesberg,Viken,Vikværsk
+137,Rollag,Viken,Vikværsk
+138,Nore og Uvdal,Viken,Vikværsk
+139,Jevnaker,Viken,Vikværsk
+140,Lunner,Viken,Vikværsk
+141,Kongsvinger,Innlandet,Midlandsk
+142,Hamar,Innlandet,Midlandsk
+143,Lillehammer,Innlandet,Midlandsk
+144,Gjøvik,Innlandet,Midlandsk
+145,Ringsaker,Innlandet,Midlandsk
+146,Løten,Innlandet,Midlandsk
+147,Stange,Innlandet,Midlandsk
+148,Nord-Odal,Innlandet,Midlandsk
+149,Sør-Odal,Innlandet,Midlandsk
+150,Eidskog,Innlandet,Midlandsk
+151,Grue,Innlandet,Midlandsk
+152,Åsnes,Innlandet,Midlandsk
+153,Elverum,Innlandet,Midlandsk
+154,Trysil,Innlandet,Midlandsk
+155,Åmot,Innlandet,Midlandsk
+156,Stor-Elvdal,Innlandet,Midlandsk
+157,Rendalen,Innlandet,Midlandsk
+158,Engerdal,Innlandet,Midlandsk
+159,Tolga,Innlandet,Midlandsk
+160,Tynset,Innlandet,Midlandsk
+161,Alvdal,Innlandet,Midlandsk
+162,Folldal,Innlandet,Midlandsk
+163,Os,Innlandet,Midlandsk
+164,Dovre,Innlandet,Midlandsk
+165,Lesja,Innlandet,Midlandsk
+166,Skjåk,Innlandet,Midlandsk
+167,Lom,Innlandet,Midlandsk
+168,Vågå,Innlandet,Midlandsk
+169,Nord-Fron,Innlandet,Midlandsk
+170,Sel,Innlandet,Midlandsk
+171,Sør-Fron,Innlandet,Midlandsk
+172,Ringebu,Innlandet,Midlandsk
+173,Øyer,Innlandet,Midlandsk
+174,Gausdal,Innlandet,Midlandsk
+175,Østre Toten,Innlandet,Midlandsk
+176,Vestre Toten,Innlandet,Midlandsk
+177,Gran,Innlandet,Midlandsk
+178,Søndre Land,Innlandet,Midlandsk
+179,Nordre Land,Innlandet,Midlandsk
+180,Sør-Aurdal,Innlandet,Midlandsk
+181,Etnedal,Innlandet,Midlandsk
+182,Nord-Aurdal,Innlandet,Midlandsk
+183,Vestre Slidre,Innlandet,Midlandsk
+184,Øystre Slidre,Innlandet,Midlandsk
+185,Vang,Innlandet,Midlandsk
+186,Horten,Vestfold og Telemark,Sørlandsk
+187,Holmestrand,Vestfold og Telemark,Sørlandsk
+188,Tønsberg,Vestfold og Telemark,Sørlandsk
+189,Sandefjord,Vestfold og Telemark,Sørlandsk
+190,Larvik,Vestfold og Telemark,Sørlandsk
+191,Porsgrunn,Vestfold og Telemark,Sørlandsk
+192,Skien,Vestfold og Telemark,Sørlandsk
+193,Notodden,Vestfold og Telemark,Sørlandsk
+194,Færder,Vestfold og Telemark,Sørlandsk
+195,Siljan,Vestfold og Telemark,Sørlandsk
+196,Bamble,Vestfold og Telemark,Sørlandsk
+197,Kragerø,Vestfold og Telemark,Sørlandsk
+198,Drangedal,Vestfold og Telemark,Sørlandsk
+199,Nome,Vestfold og Telemark,Sørlandsk
+200,Midt-Telemark,Vestfold og Telemark,Sørlandsk
+201,Tinn,Vestfold og Telemark,Sørlandsk
+202,Hjartdal,Vestfold og Telemark,Sørlandsk
+203,Seljord,Vestfold og Telemark,Sørlandsk
+204,Kviteseid,Vestfold og Telemark,Sørlandsk
+205,Nissedal,Vestfold og Telemark,Sørlandsk
+206,Fyresdal,Vestfold og Telemark,Sørlandsk
+207,Tokke,Vestfold og Telemark,Sørlandsk
+208,Vinje,Vestfold og Telemark,Sørlandsk
+209,Risør,Agder,Sørlandsk
+210,Grimstad,Agder,Sørlandsk
+211,Arendal,Agder,Sørlandsk
+212,Kristiansand,Agder,Sørlandsk
+213,Lindesnes,Agder,Sørlandsk
+214,Farsund,Agder,Sørlandsk
+215,Flekkefjord,Agder,Sørlandsk
+216,Gjerstad,Agder,Sørlandsk
+217,Vegårshei,Agder,Sørlandsk
+218,Tvedestrand,Agder,Sørlandsk
+219,Froland,Agder,Sørlandsk
+220,Lillesand,Agder,Sørlandsk
+221,Birkenes,Agder,Sørlandsk
+222,Åmli,Agder,Sørlandsk
+223,Iveland,Agder,Sørlandsk
+224,Evje og Hornnes,Agder,Sørlandsk
+225,Bygland,Agder,Sørlandsk
+226,Valle,Agder,Sørlandsk
+227,Bykle,Agder,Sørlandsk
+228,Vennesla,Agder,Sørlandsk
+229,Åseral,Agder,Sørlandsk
+230,Lyngdal,Agder,Sørlandsk
+231,Hægebostad,Agder,Sørlandsk
+232,Kvinesdal,Agder,Sørlandsk
+233,Sirdal,Agder,Sørlandsk
+234,Bergen,Vestland,Nordvestlandsk
+235,Kinn,Vestland,Nordvestlandsk
+236,Etne,Vestland,Nordvestlandsk
+237,Sveio,Vestland,Nordvestlandsk
+238,Bømlo,Vestland,Nordvestlandsk
+239,Stord,Vestland,Nordvestlandsk
+240,Fitjar,Vestland,Nordvestlandsk
+241,Tysnes,Vestland,Nordvestlandsk
+242,Kvinnherad,Vestland,Nordvestlandsk
+243,Ullensvang,Vestland,Nordvestlandsk
+244,Eidfjord,Vestland,Nordvestlandsk
+245,Ulvik,Vestland,Nordvestlandsk
+246,Voss,Vestland,Nordvestlandsk
+247,Kvam,Vestland,Nordvestlandsk
+248,Samnanger,Vestland,Nordvestlandsk
+249,Bjørnafjorden,Vestland,Nordvestlandsk
+250,Austevoll,Vestland,Nordvestlandsk
+251,Øygarden,Vestland,Nordvestlandsk
+252,Askøy,Vestland,Nordvestlandsk
+253,Vaksdal,Vestland,Nordvestlandsk
+254,Modalen,Vestland,Nordvestlandsk
+255,Osterøy,Vestland,Nordvestlandsk
+256,Alver,Vestland,Nordvestlandsk
+257,Austrheim,Vestland,Nordvestlandsk
+258,Fedje,Vestland,Nordvestlandsk
+259,Masfjorden,Vestland,Nordvestlandsk
+260,Gulen,Vestland,Nordvestlandsk
+261,Solund,Vestland,Nordvestlandsk
+262,Hyllestad,Vestland,Nordvestlandsk
+263,Høyanger,Vestland,Nordvestlandsk
+264,Vik,Vestland,Nordvestlandsk
+265,Sogndal,Vestland,Nordvestlandsk
+266,Aurland,Vestland,Nordvestlandsk
+267,Lærdal,Vestland,Nordvestlandsk
+268,Årdal,Vestland,Nordvestlandsk
+269,Luster,Vestland,Nordvestlandsk
+270,Askvoll,Vestland,Nordvestlandsk
+271,Fjaler,Vestland,Nordvestlandsk
+272,Sunnfjord,Vestland,Nordvestlandsk
+273,Bremanger,Vestland,Nordvestlandsk
+274,Stad,Vestland,Nordvestlandsk
+275,Gloppen,Vestland,Nordvestlandsk
+276,Stryn,Vestland,Nordvestlandsk
+277,Trondheim,Trøndelag,Austtrøndsk
+278,Steinkjer,Trøndelag,Austtrøndsk
+279,Namsos,Trøndelag,Austtrøndsk
+280,Frøya,Trøndelag,Austtrøndsk
+281,Osen,Trøndelag,Austtrøndsk
+282,Oppdal,Trøndelag,Austtrøndsk
+283,Rennebu,Trøndelag,Austtrøndsk
+284,Røros,Trøndelag,Austtrøndsk
+285,Holtålen,Trøndelag,Austtrøndsk
+286,Midtre Gauldal,Trøndelag,Austtrøndsk
+287,Melhus,Trøndelag,Austtrøndsk
+288,Skaun,Trøndelag,Austtrøndsk
+289,Malvik,Trøndelag,Austtrøndsk
+290,Selbu,Trøndelag,Austtrøndsk
+291,Tydal,Trøndelag,Austtrøndsk
+292,Meråker,Trøndelag,Austtrøndsk
+293,Stjørdal,Trøndelag,Austtrøndsk
+294,Frosta,Trøndelag,Austtrøndsk
+295,Levanger,Trøndelag,Austtrøndsk
+296,Verdal,Trøndelag,Austtrøndsk
+297,Snåsa,Trøndelag,Austtrøndsk
+298,Lierne,Trøndelag,Austtrøndsk
+299,Røyrvik,Trøndelag,Austtrøndsk
+300,Namsskogan,Trøndelag,Austtrøndsk
+301,Grong,Trøndelag,Austtrøndsk
+302,Høylandet,Trøndelag,Austtrøndsk
+303,Overhalla,Trøndelag,Austtrøndsk
+304,Flatanger,Trøndelag,Austtrøndsk
+305,Leka,Trøndelag,Austtrøndsk
+306,Inderøy,Trøndelag,Austtrøndsk
+307,Indre Fosen,Trøndelag,Austtrøndsk
+308,Heim,Trøndelag,Austtrøndsk
+309,Hitra,Trøndelag,Austtrøndsk
+310,Ørland,Trøndelag,Austtrøndsk
+311,Åfjord,Trøndelag,Austtrøndsk
+312,Orkland,Trøndelag,Austtrøndsk
+313,Nærøysund,Trøndelag,Austtrøndsk
+314,Rindal,Trøndelag,Austtrøndsk
+315,Tromsø,Troms og Finnmark,Troms-Finnmarks-mål
+316,Harstad,Troms og Finnmark,Troms-Finnmarks-mål
+317,Alta,Troms og Finnmark,Troms-Finnmarks-mål
+318,Vardø,Troms og Finnmark,Troms-Finnmarks-mål
+319,Vadsø,Troms og Finnmark,Troms-Finnmarks-mål
+320,Hammerfest,Troms og Finnmark,Troms-Finnmarks-mål
+321,Kvæfjord,Troms og Finnmark,Troms-Finnmarks-mål
+322,Tjeldsund,Troms og Finnmark,Troms-Finnmarks-mål
+323,Ibestad,Troms og Finnmark,Troms-Finnmarks-mål
+324,Gratangen,Troms og Finnmark,Troms-Finnmarks-mål
+325,Lavangen,Troms og Finnmark,Troms-Finnmarks-mål
+326,Bardu,Troms og Finnmark,Troms-Finnmarks-mål
+327,Salangen,Troms og Finnmark,Troms-Finnmarks-mål
+328,Målselv,Troms og Finnmark,Troms-Finnmarks-mål
+329,Sørreisa,Troms og Finnmark,Troms-Finnmarks-mål
+330,Dyrøy,Troms og Finnmark,Troms-Finnmarks-mål
+331,Senja,Troms og Finnmark,Troms-Finnmarks-mål
+332,Balsfjord,Troms og Finnmark,Troms-Finnmarks-mål
+333,Karlsøy,Troms og Finnmark,Troms-Finnmarks-mål
+334,Lyngen,Troms og Finnmark,Troms-Finnmarks-mål
+335,Storfjord,Troms og Finnmark,Troms-Finnmarks-mål
+336,Kåfjord,Troms og Finnmark,Troms-Finnmarks-mål
+337,Skjervøy,Troms og Finnmark,Troms-Finnmarks-mål
+338,Nordreisa,Troms og Finnmark,Troms-Finnmarks-mål
+339,Kvænangen,Troms og Finnmark,Troms-Finnmarks-mål
+340,Kautokeino,Troms og Finnmark,Troms-Finnmarks-mål
+341,Loppa,Troms og Finnmark,Troms-Finnmarks-mål
+342,Hasvik,Troms og Finnmark,Troms-Finnmarks-mål
+343,Måsøy,Troms og Finnmark,Troms-Finnmarks-mål
+344,Nordkapp,Troms og Finnmark,Troms-Finnmarks-mål
+345,Porsanger,Troms og Finnmark,Troms-Finnmarks-mål
+346,Karasjok,Troms og Finnmark,Troms-Finnmarks-mål
+347,Lebesby,Troms og Finnmark,Troms-Finnmarks-mål
+348,Gamvik,Troms og Finnmark,Troms-Finnmarks-mål
+349,Berlevåg,Troms og Finnmark,Troms-Finnmarks-mål
+350,Tana,Troms og Finnmark,Troms-Finnmarks-mål
+351,Nesseby,Troms og Finnmark,Troms-Finnmarks-mål
+352,Båtsfjord,Troms og Finnmark,Troms-Finnmarks-mål
+353,Sør-Varanger,Troms og Finnmark,Troms-Finnmarks-mål

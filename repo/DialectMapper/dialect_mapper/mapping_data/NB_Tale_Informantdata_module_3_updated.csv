@@ -1,0 +1,21 @@
+Informant-ID,Fødselsår,Kjønn (M/K),Yrke,Høyeste grad/utdanning,Viktigste sted(er) for talemåte,Alder flyttet til sted,Alder flyttet fra sted,Evt. kommentarer til flytting,Kommune,"Antall foreldre som snakker samme dialekt (0, 1 eller 2)",Din beskrivelse av dialekten på stedet du kommer fra,Er du representativ dialektbruker?,Høyde (cm),Vekt (kg) (frivillig),Opptakssted,Tekniske kommentarer til opptaket,Språklige kommentarer til opptaket,Kommentarer til opptak og lesing/uttale,Dialekt
+p2_g24_f0_1_t,1986,K,Annotør og opptaksleder for Lingit,Master,"Nøtterøy, Asker",Til Asker:1 (Født i Oslo) Til Nøtterøy: 8,19,,Nøtterøy,2.0,"Ganske standardisert, med innslag av Nøtterøy-dialekt. Bruker litt tykk L. Prater ikke så bredt fordi jeg bodde i Asker først.","Nei (har f.eks ikke ""ane""-ending, ""ungane"" osv.)",178,64.0,NTNU,,,,Østlandsk
+p2_g24_f0_2_t,1970,K,Førsteamanuensis,Doktorgrad,"Brekke, (Gulen, S & Fj.) (Budd i Trondheim frå 1990)",0,16,,Gulen,2.0,Vestnorsk e - mål,"Nei, mange markerte trekk er delvis borte.",169,70.0,NTNU,,,Fri tale i 1 min og 30 sek.,Nordvestlandsk
+p2_g24_f0_3_t,1960,K,Lærer,Cand.mag,Valsøyfjord (Nordmøre),0,16,Begynte på gymnas i Volda,Halsa,2.0,"lyden/ æ/ i smør, graut",Ja,173,98.0,NTNU,,,,Trøndsk
+p2_g24_f0_4_t,1965,K,Førsterons.,3 årig høyskole,Hitra (0-10år) Os i Østerdalen (11-18) Trondheim (18-47),0,10,,Hitra,2.0,Trønder,Ja,168,66.0,NTNU,"Opptaket ble gjort med åpen dør til studio, pga feil med hodetelefonene",,,Trøndsk
+p2_g24_f0_5_t,1971,K,Førsteamanuensis,Doktorgrad,Malvik,0,18,Trondheim,Trondheim,2.0,"Palataliserer, apokope, tjukk l",Ja,160,,NTNU,,,,Trøndsk
+p2_g24_f0_6_x,1984,K,Mamma,Bachelor,"Åsane - Bergen, Bønes - Bergen, Trondheim/ Stjørdal",1,19,,Bergen,2.0,Bymål - bergensk,Tja...kommer an på hvem man prater med. Tar etter tonefall.,172,60.0,NTNU,,,,Sørvestlandsk
+p2_g24_m0_1_t,1979,M,Forsker ved NTNU,Master,Trondheim,0,,"1 år i Bergen, 1 år i Italia",Trondheim,2.0,Trondheim bymål,Ja,180,,NTNU,,,,Trøndsk
+p2_g24_m0_2_t,1988,M,Student,Bachelor,Stjørdal,,,,,,,,180,85.0,NTNU,,,,Trøndsk
+p2_g24_m0_3_t,1986,M,Bilmekaniker,Videregående skole og fagbrev,Kolsås,11,21,,Bærum,2.0,Oslodialekt,"Ja, men har fått inn noe trøndersk etter 5 år her oppe.",173,71.0,NTNU,,,,Østlandsk
+p2_g24_m0_4_t,1993,M,Student,Vidaregåande,"Engesetdal, Skodje kommune",0,19,,Skodje,2.0,"Ej, ganske mykje nynorsk",Ganske representativt,169,65.0,NTNU,,,,Nordvestlandsk
+p2_g24_m0_5_t,1979,M,Danselærer,Bachelor,"Meråker, Stjørdal",0,11,,Meråker,2.0,"Mindre ""pent"" enn Trondheim. ""Penere"" enn bygdene rundt Stjørdal.",Til en viss grad.,181,80.0,NTNU,,,"Snakket lavere under de 20 setningene enn under testsetningene, derfor litt lavt lydnivå.",Trøndsk
+p2_g24_m0_6_x,1990,M,Student,VGS,"Stord, Leirvik",3,19,,Stord,1.0,Stordamål,Ja,200,94.0,NTNU,,"253 / 00357f83: ""alternativer"" leses <alternativ>. Det er OK.",,Sørvestlandsk
+p2_g24_n0_1_t,1993,K,Student,Videregående,Bergen,0,18,Skole,Bergen,2.0,"skarre r, eg",Ja,162,66.0,NTNU,,,,Sørvestlandsk
+p2_g24_n0_2_t,1989,M,Student,Videregående,Midsund kommune,0,17,,Midsund,2.0,Bred romsdalsk,Ja,181,72.0,NTNU,,,,Nordvestlandsk
+p2_g24_n0_3_t,1990,K,Student,Videregående skole,Stavanger,0,19,,Stavanger,0.0,"Skarring, a-ending, bruker ikkje - ikke, någe - noe, løye - morsomt, eg - jeg",Ja,162,65.0,NTNU,,,,Sørvestlandsk
+p2_g24_n0_4_t,1985,M,student/ journalist,Bachelor,Trondheim,0,,,Trondheim,0.0,Trondheim bymål,Ja,180,80.0,NTNU,,,,Trøndsk
+p2_g24_n0_5_t,1993,K,Student/ pleiemedhjelper,VGS,Flatraket,2,,,Selje,2.0,Liknar litt på sunnmøring,Ja,169,,NTNU,,,Pratet i litt under 2 minutter.,Nordvestlandsk
+p2_g24_n0_6_t,1984,K,arbeidsledig,Master,Surnadal,0,20,,Surnadal,1.0,"Gæv, gøit, syttjå (17), attjå (18), indre nordmøre dialekt","ja, finsurndaling",176,56.0,NTNU,,,,Trøndsk
+p2_g24_n0_7_t,1974,K,"""freelance fonetiker""",Doktorgrad,"Halden, Oslo",0-18 Halden,18år flyttet fra Halden,,Halden,1.0,Østfolddialekt,Litt avslepen og normert mot østlandsk,159,,NTNU,,,,Østlandsk
+p2_g24_n0_8_x,1988,K,Student,Master,Oslo,2,22,Utvekslingsstudier,Oslo,2.0,Halvpen Oslo-dialekt,Ja,167,61.0,NTNU,Slet med vindstøy,,,Østlandsk

@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "dialect_mapper"
+version = "1.1.0"
+description = "Convert between Norwegian municipalities, counties, and dialects"
+authors = ["Phoebe Parsons <phoebe.l.t.parsons@ntnu.no>"]
+readme = "README.md"
+license = "Apache-2.0"
+repository = "https://github.com/scribe-project/norwegianDialects/dialect_mapper"
+include = ["LICENCE"]
+
+[tool.poetry.dependencies]
+python = "^3.6.2"
+matplotlib = "3.6.1"
+shapely = "2.0b1"
+numpy = "^1.20.0"
+cairosvg = "2.6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
