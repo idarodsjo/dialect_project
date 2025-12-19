@@ -1,0 +1,2799 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Hilde Cath. Haug" audio_filename="alvdal_01um-02uk" version="18" version_date="130812">
+<Speakers>
+<Speaker id="spk1" name="alvdal_02uk" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="alvdal_01um" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="jbj" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="intervju"/>
+</Topics>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="1045.400" topic="to1">
+<Turn startTime="0" endTime="25.684">
+<Sync time="0"/>
+
+<Comment desc="innledende bemerkninger"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.684" endTime="26.328">
+<Sync time="25.684"/>
+ja 
+</Turn>
+<Turn speaker="spk2" startTime="26.328" endTime="27.568">
+<Sync time="26.328"/>
+ker ska me prate omm?
+</Turn>
+<Turn speaker="spk1" startTime="27.568" endTime="30.759">
+<Sync time="27.568"/>
+ker ska me prate omm? ee vorr ær de du går på skoLe henn no?
+</Turn>
+<Turn speaker="spk2" startTime="30.759" endTime="31.455">
+<Sync time="30.759"/>
+Stosjtæia
+</Turn>
+<Turn speaker="spk1 spk2" startTime="31.455" endTime="32.242">
+<Sync time="31.455"/>
+<Who nb="1"/>
+går du på Stosjtæia?
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2" startTime="32.242" endTime="33.005">
+<Sync time="32.242"/>
+de sisste åre
+</Turn>
+<Turn speaker="spk1 spk2" startTime="33.005" endTime="33.959">
+<Sync time="33.005"/>
+<Who nb="1"/>
+å så hæli a
+<Who nb="2"/>
+* mm
+</Turn>
+<Turn speaker="spk2" startTime="33.959" endTime="37.465">
+<Sync time="33.959"/>
+påbyggning # ell de æ ikke så velldi hæli de menn
+</Turn>
+<Turn speaker="spk1" startTime="37.465" endTime="38.49">
+<Sync time="37.465"/>
+de æ gått å bLi færdi snart da
+</Turn>
+<Turn speaker="spk2" startTime="38.49" endTime="40.231">
+<Sync time="38.49"/>
+ja menn 
+<Comment desc="uforståelig"/>
+ jævli my å jøre i år
+</Turn>
+<Turn speaker="spk1" startTime="40.231" endTime="41.781">
+<Sync time="40.231"/>
+e har ikke påbyggning 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ æi vet du 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.781" endTime="42.115">
+<Sync time="41.781"/>
+hm?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="42.115" endTime="47.79">
+<Sync time="42.115"/>
+<Who nb="1"/>
+e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ har ikke påbyggning æi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ så e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ kjæmm jo ikke nå # lanngt 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+* næi * næi
+<Sync time="45.835"/>
+<Who nb="1"/>
+e lure på omm e ska bynne på hesstelinnja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ nesste år da menn 
+<Event desc="stønning" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="47.79" endTime="48.386">
+<Sync time="47.79"/>
+sæi ru de?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="48.386" endTime="53.966">
+<Sync time="48.386"/>
+<Who nb="1"/>
+ha litt lysst # bare fårr å få litt mer 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ # 
+<Event desc="bakre klikkelyd" type="noise" extent="instantaneous"/>
+ grunnleggene
+<Who nb="2"/>
+* ja 
+<Sync time="51.033"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="52.011"/>
+<Who nb="1"/>
+har du hæsst så da kann n da liss så gått prøve
+<Who nb="2"/>
+* 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ kke dommt 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="53.966" endTime="57.138">
+<Sync time="53.966"/>
+<Who nb="1"/>
+ja # de kann du jør # va har du gått før a?
+<Who nb="2"/>
+* sånn 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="57.138" endTime="57.853">
+<Sync time="57.138"/>
+jæLLppLæier da
+</Turn>
+<Turn speaker="spk2" startTime="57.853" endTime="59.117">
+<Sync time="57.853"/>
+ja # Tynnset?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="59.117" endTime="70.087">
+<Sync time="59.117"/>
+<Who nb="1"/>
+ja # helldivis færdi # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ ja de va velldi gøy 
+<Who nb="2"/>
+* ja * ja 
+<Event desc="leende" type="noise" extent="previous"/>
+
+<Sync time="63.29"/>
+<Who nb="1"/>
+de var kjemmpegøy når de sto på menn # du kjæmm ikke så velldi lanngt me denn jåbben hær # fasst
+<Who nb="2"/>
+* ja 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="70.087" endTime="72.4">
+<Sync time="70.087"/>
+<Who nb="1"/>
+næi # æ kke sikkert de # næi
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+ ikke * næi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="72.4" endTime="74.689">
+<Sync time="72.4"/>
+<Who nb="1"/>
+så # sånn ær de ja # 
+<Comment desc="uforståelig"/>
+ ...
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ja # de æ jævli
+</Turn>
+<Turn speaker="spk2" startTime="74.689" endTime="75.834">
+<Sync time="74.689"/>
+græit på Stosjtæia 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="75.834" endTime="77.36">
+<Sync time="75.834"/>
+<Who nb="1"/>
+de ær de?
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2" startTime="77.36" endTime="78.195">
+<Sync time="77.36"/>
+bra milljø å
+</Turn>
+<Turn speaker="spk1 spk2" startTime="78.195" endTime="80.055">
+<Sync time="78.195"/>
+<Who nb="1"/>
+æ de mannge æLLvdøLer såmm går dær nå ell 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ?
+<Who nb="2"/>
+* kosjli 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="80.055" endTime="94.388">
+<Sync time="80.055"/>
+<Who nb="1"/>
+næ æ de nå mæi ra # å så # æi tæ på aggronomen # F1 M1 å så æ re nåån # fire på anndre åre tru æi 
+<Who nb="2"/>
+
+<Sync time="90.739"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="91.073"/>
+<Who nb="1"/>
+å ee # par to-tre føssjte åre
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="94.388" endTime="99.515">
+<Sync time="94.388"/>
+<Who nb="1"/>
+hm # de æ engkli ikke så mannge vett du # ifra ALLvdaL # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ litt rart
+<Who nb="2"/>
+* næi de æ kke de
+</Turn>
+<Turn speaker="spk2" startTime="99.515" endTime="100.374">
+<Sync time="99.515"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ æ re 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="100.374" endTime="103.308">
+<Sync time="100.374"/>
+<Who nb="1"/>
+ne 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ja # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="103.308" endTime="104.763">
+<Sync time="103.308"/>
+<Who nb="1"/>
+
+<Comment desc="uforståelig"/>
+ sjke n snakke omm
+<Who nb="2"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="104.763" endTime="107.076">
+<Sync time="104.763"/>
+
+<Comment desc="uforståelig"/>
+ snakke du gLede dæi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ te ferie sikkert
+</Turn>
+<Turn speaker="spk2" startTime="107.076" endTime="107.935">
+<Sync time="107.076"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ a dæ jør ei 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="107.935" endTime="109.414">
+<Sync time="107.935"/>
+<Who nb="1"/>
+ja # de sjønne jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ gått
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ 
+<Comment desc="uforståelig"/>
+ da 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ # 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="109.414" endTime="112.538">
+<Sync time="109.414"/>
+<Who nb="1"/>
+bLi gøtt # gLede mæi te fere 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* jess 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="112.538" endTime="116.878">
+<Sync time="112.538"/>
+<Who nb="1"/>
+sette heme sjia femmte novemmber i fjoL æi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ å ikke jorrt noon tinng
+<Who nb="2"/>
+* ar de?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="116.878" endTime="119.692">
+<Sync time="116.878"/>
+<Who nb="1"/>
+å ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ # byner å bLi rasstløs a?
+<Who nb="2"/>
+* mm
+</Turn>
+<Turn speaker="spk1 spk2" startTime="119.692" endTime="125.296">
+<Sync time="119.692"/>
+<Who nb="1"/>
+væit 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ de går velldi græit # de æ så mye å jøre heme # ee bygga jo fjøs vi vet du # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ m da æ re mye å jør 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* ja * ja * ja 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # stemmer e * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ja åss'n går de
+</Turn>
+<Turn speaker="spk2" startTime="125.296" endTime="125.868">
+<Sync time="125.296"/>
+a? 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="125.868" endTime="133.642">
+<Sync time="125.868"/>
+<Who nb="1"/>
+re går kjemmpebra # de jør re menn em litt dåli kLekking 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* ja 
+<Comment desc="uforståelig"/>
+
+<Sync time="130.351"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja ja
+<Sync time="131.353"/>
+<Who nb="1"/>
+så re bi lissåmm mere utjiffter enn ...
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="133.642" endTime="134.954">
+<Sync time="133.642"/>
+<Who nb="1"/>
+enn inntekkt ja ja
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ inntekkt 
+<Event desc="leende" type="noise" extent="previous"/>
+ på
+</Turn>
+<Turn speaker="spk1 spk2" startTime="134.954" endTime="149.906">
+<Sync time="134.954"/>
+<Who nb="1"/>
+måte å de æ litt dommt # så æ muli vi ska sjlakkte rømm nå mot juLa 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* ja de 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ 
+<Comment desc="uforståelig"/>
+
+<Sync time="139.771"/>
+<Who nb="1"/>
+de æ 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ litt realt 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ # sånn sett menn ee # vi ær så avhenngi av att de ska gå bra nårr vi ha så j- # vannvitti mye jell vett du
+<Who nb="2"/>
+
+<Sync time="147.211"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja ja
+<Sync time="148.69"/>
+<Who nb="1"/>
+ha vi så m ...
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="149.906" endTime="151.241">
+<Sync time="149.906"/>
+kåssta vell mye å bygge
+</Turn>
+<Turn speaker="spk1" startTime="151.241" endTime="152.005">
+<Sync time="151.241"/>
+sekks millioner
+</Turn>
+<Turn speaker="spk2 spk1" startTime="152.005" endTime="155.487">
+<Sync time="152.005"/>
+<Who nb="1"/>
+sækks millioner # det # off 
+<Who nb="2"/>
+* 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ * ja
+</Turn>
+<Turn speaker="spk1 spk2" startTime="155.487" endTime="157.514">
+<Sync time="155.487"/>
+<Who nb="1"/>
+de æ nåkk å ut me de ær de 
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ja
+</Turn>
+<Turn speaker="spk2" startTime="157.514" endTime="158.039">
+<Sync time="157.514"/>
+
+<Comment desc="uforståelig"/>
+ æ re 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="158.039" endTime="165.909">
+<Sync time="158.039"/>
+<Who nb="1"/>
+de æ gannske tøfft nå vi ær såppass onng værrtfall # ær de
+<Who nb="2"/>
+* 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="161.163"/>
+<Who nb="1"/>
+de 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ æ de æ jo mannge mannge tus'n i lån bare værrt # eller vær måne
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ vær måne
+</Turn>
+<Turn speaker="spk2" startTime="165.909" endTime="166.577">
+<Sync time="165.909"/>
+ja 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="166.577" endTime="172.086">
+<Sync time="166.577"/>
+ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ee næi de # de æ gannske hårrible priser menn # så ær de jo hårrible priser vi får inn att å ra
+</Turn>
+<Turn speaker="spk2" startTime="172.086" endTime="172.634">
+<Sync time="172.086"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ æ ræ ja 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="172.634" endTime="180.241">
+<Sync time="172.634"/>
+<Who nb="1"/>
+ja de æ jo # får jo måneslønn på enn hall million å sånn # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ så de æ jo helt uttruli # de ær de fakktisk # menn ee
+<Who nb="2"/>
+* ja * mye 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * åi 
+<Comment desc="uforståelig"/>
+ * 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="180.241" endTime="184.414">
+<Sync time="180.241"/>
+<Who nb="1"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ jo 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ græit å ikke hadd noe jell å noe # lån å betart da ja
+<Who nb="2"/>
+* ja * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ sånn sett ær de velldi græit å
+</Turn>
+<Turn speaker="spk1 spk2" startTime="184.414" endTime="210.503">
+<Sync time="184.414"/>
+<Who nb="1"/>
+byne når vi ær såpass onng fårr vi har jo # 
+<Comment desc="uforståelig"/>
+ på 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ kjue år da å da 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* mulihet te å tene inn att ja
+<Sync time="189.446"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="189.994"/>
+<Who nb="1"/>
+æ vi ikke gammeL # nå vi fakktisk æ jellsfri på fjøse ra
+<Who nb="2"/>
+nettopp * æi * æ ikke de
+<Sync time="193.69"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+næi
+<Sync time="194.406"/>
+<Who nb="1"/>
+menn de spøssj nå vorr gått de går # de kann jo gått henne vi bygg omm de te nå anna å # viss vi sjer att de ikke går # græit # kann gått henne
+<Who nb="2"/>
+* ja 
+<Comment desc="uforståelig"/>
+ * ja * går ann de
+<Sync time="203.325"/>
+<Who nb="1"/>
+menn menn # hann må vaffall byne me nå # viss n 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ska klare å # ha gaarn værrtfall
+<Who nb="2"/>
+* må rå prøve
+<Sync time="207.808"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="208.548"/>
+<Who nb="1"/>
+de æ kke mye # døkk ha mjøLLkku døkk har 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ døkk ke 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ ?
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="210.503" endTime="214.223">
+<Sync time="210.503"/>
+<Who nb="1"/>
+mjøLLkku å # litt søu # førrti 
+<Comment desc="uforståelig"/>
+
+<Who nb="2"/>
+ja * litt sæu 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="214.223" endTime="215.535">
+<Sync time="214.223"/>
+mye mjøLLk har døkk a?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="215.535" endTime="219.828">
+<Sync time="215.535"/>
+<Who nb="1"/>
+æ ee t- søtti tus'n liter i åre # mjøLLkkvote
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk1 spk2" startTime="219.828" endTime="222.046">
+<Sync time="219.828"/>
+<Who nb="1"/>
+ja # ja døkk 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ha kke mye døkk hell næi
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+ * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ næi
+</Turn>
+<Turn speaker="spk2" startTime="222.046" endTime="223.739">
+<Sync time="222.046"/>
+har ikke de sjø 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="223.739" endTime="242.292">
+<Sync time="223.739"/>
+<Who nb="1"/>
+vi ha fæmm å åtti vi no menn 
+<Who nb="2"/>
+
+<Sync time="224.955"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="225.528"/>
+<Who nb="1"/>
+de æ kke # de æ så dåli fjøs vett du # ell # de æ jo hælt græit de varrt jo byggd omm no føssjt'n på nitti # tell løsdrifft # menn
+<Who nb="2"/>
+* ja * ja
+<Sync time="234.995"/>
+<Who nb="1"/>
+de æ jo ee de æ jo så mye regler å åss'n tinng ska vær så de de de dyrt å bygge omm att rett å sjlett
+<Who nb="2"/>
+* mm 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * ja off * ja
+</Turn>
+<Turn speaker="spk2" startTime="242.292" endTime="246.775">
+<Sync time="242.292"/>
+jævli dyrt 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ æ re 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="246.775" endTime="249.207">
+<Sync time="246.775"/>
+<Who nb="1"/>
+ja ja ja 
+<Event desc="leende" type="noise" extent="previous"/>
+ 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ 
+<Comment desc="uforståelig"/>
+
+<Event desc="leende" type="noise" extent="previous"/>
+
+<Who nb="2"/>
+
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="249.207" endTime="250.924">
+<Sync time="249.207"/>
+<Who nb="1"/>
+bil'n går? 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+* ja 
+<Event desc="leende" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="250.924" endTime="252.283">
+<Sync time="250.924"/>
+<Who nb="1"/>
+bil'n går ska kjøpe n?
+<Who nb="2"/>
+* ska ru sæll n?
+</Turn>
+<Turn speaker="spk2" startTime="252.283" endTime="253.452">
+<Sync time="252.283"/>
+næi e sa ru sku sæL n
+</Turn>
+<Turn speaker="spk1 spk2" startTime="253.452" endTime="254.597">
+<Sync time="253.452"/>
+<Who nb="1"/>
+ja # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ e ska e 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="254.597" endTime="255.861">
+<Sync time="254.597"/>
+å 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ mye skar u ha?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="255.861" endTime="270.264">
+<Sync time="255.861"/>
+<Who nb="1"/>
+hunn- æi e ha sakkt ee ve hurrti hurrti avjø'lse ska ha hunndre å femm å træddve fårr n
+<Who nb="2"/>
+
+<Sync time="259.891"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja åkei # ja
+<Sync time="260.964"/>
+<Who nb="1"/>
+ee de sitt jo annlegg tell ee nåkkså mannge tus'n bak dær så ee ja # de jæi m sjøL mene att de æ en velldi bra # pris ## synns jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* ja * stemmer 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ de * ja
+</Turn>
+<Turn speaker="spk2" startTime="270.264" endTime="272.339">
+<Sync time="270.264"/>
+du ha vell ikke kjørt så hartt me n du såmm 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="272.339" endTime="284.501">
+<Sync time="272.339"/>
+<Who nb="1"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ grån 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ næi a
+<Who nb="2"/>
+* grån 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="276.011"/>
+<Who nb="1"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ e e 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ roli på gass'n # så bLi re helt anna nårr du ha me en onnge # de bi helt anna
+<Who nb="2"/>
+ja * de æ klart
+<Sync time="281.067"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+de æ klart
+<Sync time="281.711"/>
+<Who nb="1"/>
+e ha vøri haL på gass'n e å asså menn ee # 
+<Comment desc="uforståelig"/>
+ ...
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ du ta
+</Turn>
+<Turn speaker="spk2 spk1" startTime="284.501" endTime="286.504">
+<Sync time="284.501"/>
+<Who nb="1"/>
+litt mer # hennsyn da kannsje 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk1 spk2" startTime="286.504" endTime="289.986">
+<Sync time="286.504"/>
+<Who nb="1"/>
+menn e kjemm te å savvne enna 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ bil'n # kjemm se fremm # åver allt 
+<Comment desc="uforståelig"/>
+
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="289.986" endTime="291.584">
+<Sync time="289.986"/>
+<Who nb="1"/>
+firjusjtrækk så de 
+<Who nb="2"/>
+* ehe 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="291.584" endTime="312.999">
+<Sync time="291.584"/>
+<Who nb="1"/>
+så e kjemm te å savvne n menn ee # e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ kjøre jo så lite bil å da æ re engkli dyrt fårr mæi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ å sitte # me ett såppass lån på en bil e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ alldri bruke på måte
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+ * ja
+<Sync time="299.144"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="300.217"/>
+<Who nb="1"/>
+så da ska e heller sell n å kjøpe mæi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ny # nesste år
+<Who nb="2"/>
+
+<Comment desc="uforståelig"/>
+
+<Sync time="303.269"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="303.746"/>
+<Who nb="1"/>
+tru e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ # såmmærn # å da ska e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ikke ha Æudi # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+* næi
+<Sync time="307.729"/>
+<Who nb="1"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ næi ja e 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ vill æ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ vill ha Æudi # de vill æi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ menn de æ fårr tranngt # de æ bar så vitt e fæ barnevånngna inni
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2" startTime="312.999" endTime="313.357">
+<Sync time="312.999"/>
+ær de?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="313.357" endTime="319.486">
+<Sync time="313.357"/>
+<Who nb="1"/>
+mm # må lirrke n inn på vær si side ra fårr å få pLass # de æ jo helt 
+<Comment desc="uforståelig"/>
+ # stassjonsvånngn
+<Who nb="2"/>
+* 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ ja menn 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ ... * 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ja dæ 
+<Event desc="leende" type="noise" extent="previous"/>
+ #
+</Turn>
+<Turn speaker="spk2" startTime="319.486" endTime="321.823">
+<Sync time="319.486"/>
+de 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ æ ikke no sæli å ha såmm fammiliebil næi 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="321.823" endTime="329.287">
+<Sync time="321.823"/>
+<Who nb="1"/>
+næi # menn de æ pen bil da # jækla fin bil # de ær de
+<Who nb="2"/>
+* ja de æ re
+<Sync time="327.451"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="328.071"/>
+<Who nb="1"/>
+du du kjøre ra du?
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="329.287" endTime="332.649">
+<Sync time="329.287"/>
+<Who nb="1"/>
+næi ikke enna menn ha jo bussjda sjette dessemmber så
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="332.649" endTime="334.008">
+<Sync time="332.649"/>
+<Who nb="1"/>
+å desemmberbarn du å ja
+<Who nb="2"/>
+* ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ da
+</Turn>
+<Turn speaker="spk2" startTime="334.008" endTime="334.723">
+<Sync time="334.008"/>
+bLi re 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="334.723" endTime="335.677">
+<Sync time="334.723"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ e å 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ ha bussjda i dessemmber
+</Turn>
+<Turn speaker="spk2" startTime="335.677" endTime="335.939">
+<Sync time="335.677"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ ha re 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="335.939" endTime="341.495">
+<Sync time="335.939"/>
+<Who nb="1"/>
+fire dager ette dæi # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # menn da bLir de # du har bynnt å kjøre # nå eller?
+<Who nb="2"/>
+ja * 
+<Comment desc="uforståelig"/>
+ * kjedli * ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="341.495" endTime="346.026">
+<Sync time="341.495"/>
+<Who nb="1"/>
+næi e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ha tee teorin da # så e har bare att de # obbligatoriske 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="346.026" endTime="349.269">
+<Sync time="346.026"/>
+<Who nb="1"/>
+å de æ gått da # å teorin de e nå værrtfall ikke nå arrti
+<Who nb="2"/>
+* ja de æ re
+</Turn>
+<Turn speaker="spk2" startTime="349.269" endTime="352.703">
+<Sync time="349.269"/>
+
+<Comment desc="uforståelig"/>
+
+<Event desc="leende" type="noise" extent="previous"/>
+ denn såmm e # ja varrtfall kjedlikkst
+</Turn>
+<Turn speaker="spk1" startTime="352.703" endTime="353.562">
+<Sync time="352.703"/>
+har ru bil a?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="353.562" endTime="356.376">
+<Sync time="353.562"/>
+<Who nb="1"/>
+ja # e kjøppte i sømmer # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ ell e ha 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ to fårr så vitt
+<Who nb="2"/>
+* 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ ke fårr nå biler 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ ...
+</Turn>
+<Turn speaker="spk1 spk2" startTime="356.376" endTime="358.26">
+<Sync time="356.376"/>
+<Who nb="1"/>
+
+<Event desc="leende" type="noise" extent="begin"/>
+ å to å 
+<Event desc="leende" type="noise" extent="end"/>
+ 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+* em 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="358.26" endTime="360.692">
+<Sync time="358.26"/>
+Massda sækks-to-sækks # ve-sækkser 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="360.692" endTime="364.15">
+<Sync time="360.692"/>
+<Who nb="1"/>
+jaha # 
+<Event desc="sugelyd" type="noise" extent="instantaneous"/>
+ ja # de går vell fremmåver tenngke æ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+ * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ja 
+</Turn>
+<Turn speaker="spk2" startTime="364.15" endTime="365.390">
+<Sync time="364.15"/>
+
+<Comment desc="uforståelig"/>
+
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="365.390" endTime="376.718">
+<Sync time="365.390"/>
+<Who nb="1"/>
+ja # vi trenng jo ikke å ha # de dyreste hann finner da i føssjteganngsbil # 
+<Comment desc="uforståelig"/>
+ kjøffte ra Vennto æi fårr træddve tus'n # føssjte æi joL
+<Who nb="2"/>
+* bruk ... * æ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ æi ha eh 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * ja
+<Sync time="373.641"/>
+<Who nb="1"/>
+denn 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ jikk da denn # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ va ikke 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ no probbLem 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ de
+<Who nb="2"/>
+* ja jorde de
+</Turn>
+<Turn speaker="spk2" startTime="376.718" endTime="380.963">
+<Sync time="376.718"/>
+je ha kåssta på n litt da fårr dn va litt # litt skral
+</Turn>
+<Turn speaker="spk1 spk2" startTime="380.963" endTime="385.279">
+<Sync time="380.963"/>
+<Who nb="1"/>
+ja 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ dyrt # de 
+<Comment desc="uforståelig"/>
+ jækla dyrt
+<Who nb="2"/>
+* ee * 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="385.279" endTime="392.648">
+<Sync time="385.279"/>
+<Who nb="1"/>
+ja de æ re # de æ dyrt å ha bil # værrtfall nårr du # ha n to kåmma fæmm liter bennsin så
+<Who nb="2"/>
+* mm * 
+<Comment desc="uforståelig"/>
+ * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ja #
+</Turn>
+<Turn speaker="spk1 spk2" startTime="392.648" endTime="400.875">
+<Sync time="392.648"/>
+<Who nb="1"/>
+e ha jo dis'l e da # gu sje låv # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ ## menn de æ vell realt ja 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+ja * ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="400.875" endTime="402.664">
+<Sync time="400.875"/>
+
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="402.664" endTime="409.937">
+<Sync time="402.664"/>
+<Who nb="1"/>
+ja ## så ær de kke så velldi lannge avstanner nårr n ska kjøre oppi hær lell 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ så ## da ær de helt græit
+<Who nb="2"/>
+* næi 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ re kke 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="409.937" endTime="413.419">
+<Sync time="409.937"/>
+ja # sku 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ hatt bakjusjtrækk 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ i vinnter 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="413.419" endTime="415.16">
+<Sync time="413.419"/>
+ja 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="415.16" endTime="418.093">
+<Sync time="415.16"/>
+<Who nb="1"/>
+kannsje bra n ikke har re # ee kannsje
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk1 spk2" startTime="418.093" endTime="465.359">
+<Sync time="418.093"/>
+<Who nb="1"/>
+ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ # æi tok nå att n M1 oppi # bakken Stæibakken hær i går # M1 E1 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ hann 
+<Event desc="leende" type="noise" extent="previous"/>
+ # hann sæile bakåver å æi komm # oppover
+<Who nb="2"/>
+* å * så 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ stili da 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ * 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="427.751"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="428.323"/>
+<Who nb="1"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ ## næi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ de æ kke så lurt me dåli dekk e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ha dåli dekk bak e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ på bil'n minn
+<Who nb="2"/>
+* ja
+<Sync time="434.261"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="435.167"/>
+<Who nb="1"/>
+de e kke bra asså # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # kjæmm forrt sjø
+<Who nb="2"/>
+* sjlemmt
+<Sync time="438.792"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="439.102"/>
+<Who nb="1"/>
+nå n føssjt # sjlepp så ## menn menn
+<Who nb="2"/>
+* ja
+<Sync time="443.204"/>
+<Who nb="1"/>
+de æ jo så mannge såmm ha rinngt på n vett du # menn de æ mannge såmm synns de æ dyrt tru je 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* æ re 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ de?
+<Sync time="446.829"/>
+<Who nb="1"/>
+* e tru kke remm 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ fåsjtår att de æ såppass bra annlegg i n # de æ pent byggd vett du # ne'i gåLLve
+<Who nb="2"/>
+ja * næi * næi
+<Sync time="452.004"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja 
+<Comment desc="uforståelig"/>
+
+<Sync time="453.053"/>
+<Who nb="1"/>
+så ær de jo em # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ kann jo brukes ti konngkuranngser da
+<Who nb="2"/>
+
+<Sync time="456.392"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="458.61"/>
+<Who nb="1"/>
+småkonngkuranser så # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ menn ee 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ # rinngte jo en i går mårres å lurte på om hann kunne kåmme å sjå på bil'n minn hann skulle finne sæ en Æudi fårr åtti 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ tus'n
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="465.359" endTime="468.793">
+<Sync time="465.359"/>
+<Who nb="1"/>
+åtti tus'n? # ja ja # da få 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ n finne sæi 
+<Event desc="leende" type="noise" extent="previous"/>
+ ...
+<Who nb="2"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ * ja 
+<Event desc="leende" type="noise" extent="previous"/>
+ * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ja ja "go tur" sa e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ du kjemm vaffall 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="468.793" endTime="478.237">
+<Sync time="468.793"/>
+<Who nb="1"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ ikke å sjå på 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ minn # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ ## du får ikke en Æudi # afire kvatro # niånittimodell till åtti tus'n kroner # de jør du ikke 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* åtti tus'n ja næi da * æi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="478.237" endTime="480.741">
+<Sync time="478.237"/>
+ikke # da ær de no gæLi værrtfall
+</Turn>
+<Turn speaker="spk1 spk2" startTime="480.741" endTime="500.105">
+<Sync time="480.741"/>
+<Who nb="1"/>
+ja æi sa de ått 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ n e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ å "da må ru lete lennge" næi hann skulle sjå på to stykker i Nor-Nårrge ra sjø # denn uka hær
+<Who nb="2"/>
+* m 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * ja
+<Sync time="486.512"/>
+<Who nb="1"/>
+ja ja de kann jo sikkert vør så såmm så 
+<Event desc="leende" type="noise" extent="previous"/>
+ me denn kvallitet'n menn "go tur" sa jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ åt n næi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ va hæilt græit da # "lykke till me sallge" sa n 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ 
+<Event desc="leende" type="noise" extent="begin"/>
+ off a mæi 
+<Event desc="leende" type="noise" extent="end"/>
+
+<Who nb="2"/>
+* go tur * mm * 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="497.482"/>
+<Who nb="1"/>
+menn fåLLk vill jo prøve sæi ra # dømm vill jo de
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ja ee
+</Turn>
+<Turn speaker="spk2" startTime="500.105" endTime="501.011">
+<Sync time="500.105"/>
+ja dæ jør dømm hele tia 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="501.011" endTime="513.269">
+<Sync time="501.011"/>
+<Who nb="1"/>
+menn e si e æ ikke penngelenns # så e kann da alltis 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sitte me n æi # menn 
+<Comment desc="uforståelig"/>
+-ræima ska sjifftes på n nå vet du
+<Who nb="2"/>
+* næi 
+<Sync time="507.14"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="507.927"/>
+<Who nb="1"/>
+tenngte enngtli 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sku få sellt n før dænn bit'n # 
+<Event desc="sugelyd" type="noise" extent="instantaneous"/>
+ # viss e ska kåsste på n tå 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ mye så æ re græit å ha n sjøL
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2" startTime="513.269" endTime="513.984">
+<Sync time="513.269"/>
+egentli 
+<Event desc="leende" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="513.984" endTime="524.787">
+<Sync time="513.984"/>
+<Who nb="1"/>
+ja # æ fakktisk de ## de æ fakktisk de ja ## 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+* 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ * ja * 
+<Comment desc="uforståelig"/>
+
+<Sync time="521.544"/>
+<Who nb="1"/>
+menn næi ja vi få nå håpa 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ vi få sållt n
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="524.787" endTime="528.651">
+<Sync time="524.787"/>
+ja ## burde da få litt fårr n
+</Turn>
+<Turn speaker="spk1" startTime="528.651" endTime="531.680">
+<Sync time="528.651"/>
+vet ikke vo li- va rømm ligg på lisstepris e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="531.680" endTime="535.663">
+<Sync time="531.680"/>
+<Who nb="1"/>
+ee æ kke helt sikkert si # ny- ...
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ na 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ F3 vett du
+</Turn>
+<Turn speaker="spk1 spk2" startTime="535.663" endTime="578.111">
+<Sync time="535.663"/>
+<Who nb="1"/>
+F3 ho ska jo sell Passat'n sinn 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* ja
+<Sync time="537.523"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="537.762"/>
+<Who nb="1"/>
+ho hadde satt n inn fårr hunndre å femm å kjue # å de kjæmm noon å ser på n no
+<Who nb="2"/>
+* ja
+<Sync time="541.649"/>
+<Who nb="1"/>
+å nårr ho får att hunndre å femm å kjue fårr enn Passat såmm ikke ær # firrjusjtrekk så må jo # je kunne 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ 
+<Comment desc="uforståelig"/>
+ få att mer fårr n Æudi såmm ær firejusjtrekk
+<Who nb="2"/>
+* mm * ja burrde re 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ja * ja
+<Sync time="548.398"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="549.042"/>
+<Who nb="1"/>
+fårr Æudiann ligg nå høyar i pris da
+<Who nb="2"/>
+
+<Sync time="551.451"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+mm
+<Sync time="552.691"/>
+<Who nb="1"/>
+menn ee næi e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ væit ikke å listepris'n ær æi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+
+<Sync time="555.171"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+næi e vett a faan sjø
+<Sync time="556.125"/>
+<Who nb="1"/>
+e væit søsster mi ho bytta inn a-sekks'n sinn vett du # de æ fremmjusjtrekk
+<Who nb="2"/>
+* ja
+<Sync time="559.487"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="559.749"/>
+<Who nb="1"/>
+bytta inn denn i såmmer næi ho rinngte å lurte på å 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ mye ømm 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sku ha
+<Who nb="2"/>
+
+<Sync time="563.898"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="564.447"/>
+<Who nb="1"/>
+få att fårr å bytte n inn # da fikk a att nitti tus'n # viss førr dømm måtte repparere n 
+<Comment desc="uforståelig"/>
+ å sånn # å så sku remm 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sell n ut att 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ førr hunndre å kjue
+<Who nb="2"/>
+* ja
+<Sync time="572.531"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="574.844"/>
+<Who nb="1"/>
+å da må da ve jaffall jæi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ få hunndre å femm å træddve få minn me ett annlegg fårr træddve tus'n?
+<Who nb="2"/>
+* mm
+</Turn>
+<Turn speaker="spk2 spk1" startTime="578.111" endTime="581.664">
+<Sync time="578.111"/>
+<Who nb="1"/>
+å firejusjtrækk # så
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk1 spk2" startTime="581.664" endTime="585.861">
+<Sync time="581.664"/>
+<Who nb="1"/>
+æi hann må bare vennte te å råke på n 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ rette # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ tru jæ 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2" startTime="585.861" endTime="588.127">
+<Sync time="585.861"/>
+næi de e ikke nå vitts i å stresse viss du ikke må
+</Turn>
+<Turn speaker="spk1 spk2" startTime="588.127" endTime="604.701">
+<Sync time="588.127"/>
+<Who nb="1"/>
+næi a # 
+<Comment desc="uforståelig"/>
+ de æ helt græit å sitte me n de æ kke denn 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ # de 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ha jo mye omm å bruke pennger på når æi ha mulihet tell å bruke # på nå anna på måte 
+<Who nb="2"/>
+* ja
+<Sync time="597.046"/>
+<Who nb="1"/>
+så ha 
+<Comment desc="uforståelig"/>
+ # studielån da
+<Who nb="2"/>
+
+<Event desc="leende" type="noise" extent="begin"/>
+ ja de sjønne ei 
+<Event desc="leende" type="noise" extent="end"/>
+
+<Sync time="599.192"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="600.48"/>
+<Who nb="1"/>
+de æ værrtfall ikke nå arrti # anngre såmm ett # lyn # no
+<Who nb="2"/>
+* næi
+</Turn>
+<Turn speaker="spk2" startTime="604.701" endTime="605.249">
+<Sync time="604.701"/>
+å jør de ja?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="605.249" endTime="608.778">
+<Sync time="605.249"/>
+<Who nb="1"/>
+m # de æ ikke e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ha kke mye da jæ ha femmti tus'n tenngke jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * næi
+</Turn>
+<Turn speaker="spk2" startTime="608.778" endTime="611.067">
+<Sync time="608.778"/>
+ja # æ ra litt 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ dæ a 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="611.067" endTime="631.194">
+<Sync time="611.067"/>
+<Who nb="1"/>
+å da # ja femmt'n hunndre kroner i mån'n menn såmm sakkt de æ dyrt vett du dyrt lån da # ær de de 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ går jo så mannge måner vett du før du æ færdi me re
+<Who nb="2"/>
+* ja 
+<Sync time="618.579"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja ja
+<Sync time="619.39"/>
+<Who nb="1"/>
+nå æ re græit å få kutte 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ e ha 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ tre å ett hallt på bil'n # då 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ får æi bruke di tre å ett halltann på de så a bLi e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ forrt kvitt de
+<Who nb="2"/>
+* ja
+<Sync time="624.946"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="626.258"/>
+<Who nb="1"/>
+jør æi ## menn vi fæ na 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sjå
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="631.194" endTime="635.319">
+<Sync time="631.194"/>
+<Who nb="1"/>
+ja # sjå åss'n de går # å håpe på re besste
+<Who nb="2"/>
+* kess'n de bi # ja 
+<Event desc="leende" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="635.319" endTime="642.092">
+<Sync time="635.319"/>
+<Who nb="1"/>
+
+<Event desc="leende" type="noise" extent="begin"/>
+ ja hann må jør de 
+<Event desc="leende" type="noise" extent="end"/>
+ # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # de må n jør ja
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="642.092" endTime="643.976">
+<Sync time="642.092"/>
+<Who nb="1"/>
+jess # lennge ha n prata no?
+<Who nb="2"/>
+* 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="643.976" endTime="646.766">
+<Sync time="643.976"/>
+<Who nb="1"/>
+
+<Event desc="leende" type="noise" extent="begin"/>
+ næi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ vet ikke 
+<Event desc="leende" type="noise" extent="end"/>
+
+<Who nb="2"/>
+* 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="646.766" endTime="648.054">
+<Sync time="646.766"/>
+prate litt til
+</Turn>
+<Turn speaker="spk1 spk2" startTime="648.054" endTime="653.277">
+<Sync time="648.054"/>
+<Who nb="1"/>
+litt till ja # ja menn # ja ja ja # ja de va fært
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+ * hm 
+<Comment desc="uforståelig"/>
+ * 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="653.277" endTime="654.589">
+<Sync time="653.277"/>
+å ska me 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ prate omm da?
+</Turn>
+<Turn speaker="spk1" startTime="654.589" endTime="655.257">
+<Sync time="654.589"/>
+ja si de
+</Turn>
+<Turn speaker="spk3" startTime="655.257" endTime="658.262">
+<Sync time="655.257"/>
+prate om ee # dyr da
+</Turn>
+<Turn speaker="spk2" startTime="658.262" endTime="658.787">
+<Sync time="658.262"/>
+dyr
+</Turn>
+<Turn speaker="spk1 spk2" startTime="658.787" endTime="660.504">
+<Sync time="658.787"/>
+<Who nb="1"/>
+dyr # ja menn vi har jo snakka omm dyr
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="660.504" endTime="663.485">
+<Sync time="660.504"/>
+<Who nb="1"/>
+ja # ee no 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ mer dyr da 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* stort sett
+</Turn>
+<Turn speaker="spk1 spk2" startTime="663.485" endTime="668.898">
+<Sync time="663.485"/>
+<Who nb="1"/>
+ee no mer dyr # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ Stæia va 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ alle sjlakks dyr # væit ikke omm noon såmm ska ha kattonnger?
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+ * ja
+</Turn>
+<Turn speaker="spk2" startTime="668.898" endTime="672.499">
+<Sync time="668.898"/>
+næi # vet ikke sjø # ikke æi i værrt fall
+</Turn>
+<Turn speaker="spk1 spk2" startTime="672.499" endTime="703.432">
+<Sync time="672.499"/>
+<Who nb="1"/>
+næi både fjøskatt'n fikk kattonnger hær ho fikk femm stykker # så fikk jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sækks på minn egen # menn 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ så måtte æi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ jo sjlå ijæl tre ra æi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ måtte de
+<Who nb="2"/>
+* ja * mm * åi åi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * ja da har u 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ 
+<Comment desc="uforståelig"/>
+
+<Sync time="680.607"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="681.418"/>
+<Who nb="1"/>
+e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ville ikke # å de va græit nåkk # så ha jæ fått enngkli så æ e kvitt alle nå tru æi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Sync time="685.854"/>
+<Who nb="1"/>
+menn e har ra fåssjatt fire hemme såmm ikke ha bLitt s- sennt # førr to a rømm ska te Kristiansann
+<Who nb="2"/>
+
+<Sync time="689.932"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="690.743"/>
+<Who nb="1"/>
+* så æi må råke på en trailer såmm kann ta på rømm
+<Who nb="2"/>
+såppass ja
+<Sync time="693.223"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="694.297"/>
+<Who nb="1"/>
+å så varrt jo ene katt'n min borrte nå i vår vett du
+<Who nb="2"/>
+
+<Sync time="697.135"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+å ja
+<Sync time="697.517"/>
+<Who nb="1"/>
+borrte # så i gårr kvell så spranng de en fremmen katt inn i huse åt mæi # nårr æi sku rope på rømm anndre # de va hann
+<Who nb="2"/>
+* 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ * åi
+</Turn>
+<Turn speaker="spk2 spk1" startTime="703.432" endTime="704.338">
+<Sync time="703.432"/>
+<Who nb="1"/>
+
+<Event desc="leende" type="noise" extent="begin"/>
+ var de 
+<Event desc="leende" type="noise" extent="end"/>
+ ?
+<Who nb="2"/>
+* mm
+</Turn>
+<Turn speaker="spk1 spk2" startTime="704.338" endTime="705.53">
+<Sync time="704.338"/>
+<Who nb="1"/>
+komm att etter ett hallt år
+<Who nb="2"/>
+* m 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="705.53" endTime="706.198">
+<Sync time="705.53"/>
+hallt år?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="706.198" endTime="710.92">
+<Sync time="706.198"/>
+<Who nb="1"/>
+ja # 
+<Comment desc="uforståelig"/>
+ fikk sjåkk jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ va jo så gLa a så e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ hållt jo på å ha 
+<Event desc="leende" type="noise" extent="begin"/>
+ lyse opp 
+<Event desc="leende" type="noise" extent="end"/>
+ # menn ja
+<Who nb="2"/>
+* ja 
+<Comment desc="uforståelig"/>
+ * ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="710.92" endTime="713.472">
+<Sync time="710.92"/>
+hallt år ja å så har du ikke sjett n sjea hell?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="713.472" endTime="723.751">
+<Sync time="713.472"/>
+<Who nb="1"/>
+ikke sjett n # så no ha e jo plussjli fire sjøL a førr e hadde jo tre # tre sjøL # pLuss a kattonngan menn så
+<Who nb="2"/>
+* ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ * 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="720.073"/>
+<Who nb="1"/>
+de va jo ellve katter da inni huse mitt en 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ # 
+<Comment desc="uforståelig"/>
+ # de æ mye å da 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+* ja * 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="723.751" endTime="724.657">
+<Sync time="723.751"/>
+<Who nb="1"/>
+ja 
+<Comment desc="uforståelig"/>
+ villt 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="724.657" endTime="738.298">
+<Sync time="724.657"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # hai # du våken? # hæ # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # ha kke hillsa på hann før si # næi
+<Sync time="735.222"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # ja ja # jåbber du på Esso nå ell? 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="738.298" endTime="739.848">
+<Sync time="738.298"/>
+<Who nb="1"/>
+ja # ell i hæLLjane 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk1" startTime="739.848" endTime="740.301">
+<Sync time="739.848"/>
+hæLLjane?
+</Turn>
+<Turn speaker="spk2" startTime="740.301" endTime="740.707">
+<Sync time="740.301"/>
+ja
+</Turn>
+<Turn speaker="spk1" startTime="740.707" endTime="741.709">
+<Sync time="740.707"/>
+græit å tene litt da
+</Turn>
+<Turn speaker="spk2 spk1" startTime="741.709" endTime="748.553">
+<Sync time="741.709"/>
+<Who nb="1"/>
+ja # må nesst'n ha litt
+<Who nb="2"/>
+
+<Sync time="743.998"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="744.714"/>
+<Who nb="1"/>
+tjene 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ikke så jævli mye menn 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ # de bli jo litt
+<Who nb="2"/>
+* næi de ær 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ sikkert li- 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ ...
+</Turn>
+<Turn speaker="spk1" startTime="748.553" endTime="749.888">
+<Sync time="748.553"/>
+jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ vet ikke jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ kæ mye ... ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="749.888" endTime="751.939">
+<Sync time="749.888"/>
+<Who nb="1"/>
+ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sækks å nitti i timen
+<Who nb="2"/>
+* 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="751.939" endTime="752.392">
+<Sync time="751.939"/>
+ja
+</Turn>
+<Turn speaker="spk2" startTime="752.392" endTime="754.085">
+<Sync time="752.392"/>
+m
+</Turn>
+<Turn speaker="spk1" startTime="754.085" endTime="755.611">
+<Sync time="754.085"/>
+skatt da sikkert å
+</Turn>
+<Turn speaker="spk2" startTime="755.611" endTime="756.112">
+<Sync time="755.611"/>
+ja
+</Turn>
+<Turn speaker="spk1" startTime="756.112" endTime="756.637">
+<Sync time="756.112"/>
+
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="756.637" endTime="761.096">
+<Sync time="756.637"/>
+<Who nb="1"/>
+n- tænngte e sku høre på Finnd'n 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ etter ee # etter juL # 
+<Comment desc="uforståelig"/>
+ ...
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ mm æ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ å 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ driv å 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ lure
+</Turn>
+<Turn speaker="spk1 spk2" startTime="761.096" endTime="772.996">
+<Sync time="761.096"/>
+<Who nb="1"/>
+på de sjø # nå e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ byne på att no # bare sånn # litt ekkstra 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* ja * tene bra der * ja
+<Sync time="765.603"/>
+<Who nb="1"/>
+de e jo fåLLk såmm ikke # ja de æ da 
+<Comment desc="uforståelig"/>
+ fLæire veninner tå mæi såmm jåbba dær i såmmar da 
+<Who nb="2"/>
+
+<Sync time="768.918"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="769.371"/>
+<Who nb="1"/>
+såmm ikke ha utdann'lse elle 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ noen tinng # hunndre å to å førrti kroner timen
+<Who nb="2"/>
+* mm
+</Turn>
+<Turn speaker="spk2 spk1" startTime="772.996" endTime="779.959">
+<Sync time="772.996"/>
+<Who nb="1"/>
+grunnlønn ja # å så fær e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ jo # gørmye tillegg da # hunndre prossent på sønndager å # ja
+<Who nb="2"/>
+* ja * ehe
+</Turn>
+<Turn speaker="spk1 spk2" startTime="779.959" endTime="788.401">
+<Sync time="779.959"/>
+<Who nb="1"/>
+å så sitte jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ å tene 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ en stakkasj hunndre å sekks å kjue kroner såmm jæLLpepLæier 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # de æ ikke bra vett du # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+ * 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="788.401" endTime="795.198">
+<Sync time="788.401"/>
+<Who nb="1"/>
+kann bLi litt urettfærrdi # 
+<Comment desc="uforståelig"/>
+ # gått skuLe å # utdanna ræi te no 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* iaffall ikke bra ... * ja * de æ urettfærrdi * mm
+</Turn>
+<Turn speaker="spk1 spk2" startTime="795.198" endTime="801.78">
+<Sync time="795.198"/>
+<Who nb="1"/>
+så tene ru de æ kke rart att de bi lite tå dømm # fåLLka såmm jobber dær mæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ 
+<Comment desc="uforståelig"/>
+ hotell 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ egentli # de æ ikke de
+<Who nb="2"/>
+* næi * æ egentli ikke de * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ nårr rømm kann tene
+</Turn>
+<Turn speaker="spk2 spk1" startTime="801.78" endTime="806.335">
+<Sync time="801.78"/>
+<Who nb="1"/>
+bære anndre steller dær 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # dær 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ømm ikke trenng nåå såmm hellst 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk1 spk2" startTime="806.335" endTime="814.323">
+<Sync time="806.335"/>
+<Who nb="1"/>
+menn stort sett æ jo de æ jo Finnd'n stort sett såmm du tene så bra på ra # de ær de
+<Who nb="2"/>
+* ja 
+<Comment desc="uforståelig"/>
+
+<Sync time="811.104"/>
+<Who nb="1"/>
+menn dømm trenng jo fåLLk dær så de æ jo ikke så velldi vannskli å få jåbb dær tru e
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="814.323" endTime="817.685">
+<Sync time="814.323"/>
+<Who nb="1"/>
+næi høres ikke sånn ut # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ m fær 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ såmm regel jåbb 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ nær domm søke så 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* næi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="817.685" endTime="824.124">
+<Sync time="817.685"/>
+<Who nb="1"/>
+mm ## de bLir de # menn va ska du byne me nårr du æ færdi på skoLa 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ a # bare jobbe?
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2" startTime="824.124" endTime="825.841">
+<Sync time="824.124"/>
+ja æi # sæi dæ ru
+</Turn>
+<Turn speaker="spk1" startTime="825.841" endTime="826.437">
+<Sync time="825.841"/>
+du vet ikke?
+</Turn>
+<Turn speaker="spk2" startTime="826.437" endTime="832.28">
+<Sync time="826.437"/>
+e ska s- # te 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ må vell studdere menn # æi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ vet ikke helt va # å nårr
+</Turn>
+<Turn speaker="spk1 spk2" startTime="832.28" endTime="840.46">
+<Sync time="832.28"/>
+<Who nb="1"/>
+næi nå rinnger tellefon'n din å 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ ## 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ ta n 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ # næi
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+ * 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="840.46" endTime="841.008">
+<Sync time="840.46"/>
+fær sjå
+</Turn>
+<Turn speaker="spk1" startTime="841.008" endTime="842.582">
+<Sync time="841.008"/>
+du vet ikke va ru 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ vill ee 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ bLi a
+</Turn>
+<Turn speaker="spk2 spk1" startTime="842.582" endTime="844.108">
+<Sync time="842.582"/>
+<Who nb="1"/>
+m næi ikke helt sekker s- 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ...
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ikke nå
+</Turn>
+<Turn speaker="spk1 spk2" startTime="844.108" endTime="845.3">
+<Sync time="844.108"/>
+<Who nb="1"/>
+tanngker hæller 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ? 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ næi ha 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="845.3" endTime="848.901">
+<Sync time="845.3"/>
+søkkt på # fLygerutdanning i fåssjvare da menn 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="848.901" endTime="849.879">
+<Sync time="848.901"/>
+har ru lysst tl e?
+</Turn>
+<Turn speaker="spk2" startTime="849.879" endTime="852.145">
+<Sync time="849.879"/>
+ja lysst te å bLi jagepilot menn
+</Turn>
+<Turn speaker="spk1" startTime="852.145" endTime="852.908">
+<Sync time="852.145"/>
+ja de ha varrt tøfft
+</Turn>
+<Turn speaker="spk2" startTime="852.908" endTime="853.743">
+<Sync time="852.908"/>
+ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ jævli tøfft
+</Turn>
+<Turn speaker="spk1 spk2" startTime="853.743" endTime="855.865">
+<Sync time="853.743"/>
+<Who nb="1"/>
+ja dæ s- ja synns e ser så hæli ut
+<Who nb="2"/>
+* menn ei ...
+</Turn>
+<Turn speaker="spk2" startTime="855.865" endTime="858.464">
+<Sync time="855.865"/>
+ja 
+<Event desc="leende" type="noise" extent="previous"/>
+ # menn de æ visst ikke så lett
+</Turn>
+<Turn speaker="spk1 spk2" startTime="858.464" endTime="865.761">
+<Sync time="858.464"/>
+<Who nb="1"/>
+sitt å ser på "Tåpp Gønn" jæ 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sjønne ru # å æ jo bLi helt gira # fy 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ fLate # æ de æ vør så hæli
+<Who nb="2"/>
+* m * jess * 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ * de sjer hæli ut ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="865.761" endTime="868.742">
+<Sync time="865.761"/>
+<Who nb="1"/>
+menn 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ vell ett 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ nåLæue å kåmme jørnomm # de 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ...
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ ja de æ
+</Turn>
+<Turn speaker="spk1 spk2" startTime="868.742" endTime="870.435">
+<Sync time="868.742"/>
+<Who nb="1"/>
+gannske harrt tru e å kåmme dit 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2" startTime="870.435" endTime="872.891">
+<Sync time="870.435"/>
+byner jo opptaksprøver alleree i vinnter da så
+</Turn>
+<Turn speaker="spk1" startTime="872.891" endTime="873.368">
+<Sync time="872.891"/>
+jør de?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="873.368" endTime="884.124">
+<Sync time="873.368"/>
+<Who nb="1"/>
+ja # menn da ee # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ ra 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ græit å søke å prøve bare 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ # å sjå
+<Who nb="2"/>
+* hm * ja
+<Sync time="880.117"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja ja ja
+<Sync time="880.618"/>
+<Who nb="1"/>
+de æ ra ikk- værr'dn går da ikke unner omm ikke # kjemm videre
+<Who nb="2"/>
+* 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ menn viss 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ kjemm inn 
+<Comment desc="uforståelig"/>
+ de æ
+</Turn>
+<Turn speaker="spk1 spk2" startTime="884.124" endTime="893.52">
+<Sync time="884.124"/>
+<Who nb="1"/>
+værrt ett fåssjøk da værrtfall 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ n- viss ann 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ har lysst da 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* ja * ee * ee
+<Sync time="886.056"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="887.748"/>
+<Who nb="1"/>
+menn em # de æ sikkert # knakanes goe karrakterer å sånn sikkert eller? # går de på karrakterer detta?
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="893.52" endTime="899.434">
+<Sync time="893.52"/>
+<Who nb="1"/>
+æi ja både karrakterer å di tesstan såmm # bLi jennåmført 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ på en måte ra 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* 
+<Event desc="me" type="pronounce" extent="begin"/>
+ menn va sjlakks tesster ær de
+</Turn>
+<Turn speaker="spk1" startTime="899.434" endTime="900.293">
+<Sync time="899.434"/>
+a? 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="900.293" endTime="907.781">
+<Sync time="900.293"/>
+<Who nb="1"/>
+æ nåe linngnane såmm på sessjon # sånn æunetesster å sånn 
+<Who nb="2"/>
+
+<Sync time="905.11"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="905.635"/>
+<Who nb="1"/>
+så bLi re vell fysisk te sømmærn
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="907.781" endTime="909.999">
+<Sync time="907.781"/>
+<Who nb="1"/>
+hm # så mye rart
+<Who nb="2"/>
+* så
+</Turn>
+<Turn speaker="spk2" startTime="909.999" endTime="915.961">
+<Sync time="909.999"/>
+ja # så viss du kjæmm inn da så må ru nå te Uesa etter ett par år
+</Turn>
+<Turn speaker="spk1 spk2" startTime="915.961" endTime="920.707">
+<Sync time="915.961"/>
+<Who nb="1"/>
+såppass # menn mannge år ær de de # bLir utdanning på måte ra allder 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ da?
+<Who nb="2"/>
+* ee * ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="920.707" endTime="931.104">
+<Sync time="920.707"/>
+<Who nb="1"/>
+ee to år i Nårrge tru e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ å så # s- # lell 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ de bLi vell åtte te sammen tru e # så 
+<Who nb="2"/>
+* ja
+<Sync time="926.668"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja ja
+<Sync time="927.074"/>
+<Who nb="1"/>
+
+<Event desc="sugelyd" type="noise" extent="instantaneous"/>
+ # æ jo en del da # 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+* 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="931.104" endTime="934.395">
+<Sync time="931.104"/>
+<Who nb="1"/>
+de æ mannge år da menn klart viss hann virrkli ha lysst tl de så æ re jo værrt de ra
+<Who nb="2"/>
+* ja * ja
+</Turn>
+<Turn speaker="spk2 spk1" startTime="934.395" endTime="939.784">
+<Sync time="934.395"/>
+<Who nb="1"/>
+de æ re # du fæ jo # gratis utdanning så # fåssjvare betaLe jo allt
+<Who nb="2"/>
+* mm
+</Turn>
+<Turn speaker="spk1" startTime="939.784" endTime="940.285">
+<Sync time="939.784"/>
+jør de?
+</Turn>
+<Turn speaker="spk2" startTime="940.285" endTime="941.406">
+<Sync time="940.285"/>
+ja
+</Turn>
+<Turn speaker="spk1 spk2" startTime="941.406" endTime="949.086">
+<Sync time="941.406"/>
+<Who nb="1"/>
+næi da ær de jamm'm mæi m da æ re værrt å ta sjanngs'n da # ba fårr å prøve
+<Who nb="2"/>
+* ja de æ re * bare prøve
+<Sync time="945.604"/>
+<Who nb="1"/>
+de 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ hadde vøre 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ gørarrti # æi a da missunne e ræ asså viss du kjæmm inn dær
+<Who nb="2"/>
+* taper jo ikke no på re
+</Turn>
+<Turn speaker="spk2" startTime="949.086" endTime="950.421">
+<Sync time="949.086"/>
+ja # vør tøfft de
+</Turn>
+<Turn speaker="spk1" startTime="950.421" endTime="954.976">
+<Sync time="950.421"/>
+mm # menn du vet ikke omm fLer såmm ska # eller såmm har søkkt lissåmm?
+</Turn>
+<Turn speaker="spk2" startTime="954.976" endTime="956.255">
+<Sync time="954.976"/>
+næi # ha kke hørt omm
+</Turn>
+<Turn speaker="spk1 spk2" startTime="956.255" endTime="958.458">
+<Sync time="956.255"/>
+<Who nb="1"/>
+næi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ du vill rese sjøL a # du synns ikke de 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ær no probLem?
+<Who nb="2"/>
+* 
+<Comment desc="uforståelig"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="958.458" endTime="960.938">
+<Sync time="958.458"/>
+<Who nb="1"/>
+næi # æ ra 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ kke de
+<Who nb="2"/>
+* 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="960.938" endTime="976.415">
+<Sync time="960.938"/>
+<Who nb="1"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ hellt ti denn 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ dagen kjæmm si # næi ra de æ vell gått å kåmme sæ unna litt å
+<Who nb="2"/>
+* mhm 
+<Event desc="leende" type="noise" extent="previous"/>
+ 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+
+<Sync time="964.492"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja de æ re
+<Sync time="965.231"/>
+<Who nb="1"/>
+prøve # prøve no nytt # de tru æi æ positift
+<Who nb="2"/>
+* ja
+<Sync time="969.714"/>
+<Who nb="1"/>
+e anngre fakktisk litt på de sjøL sjø 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ att ikke e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ha d- # kømme mæi ut a byggda bare fårr å prøve no nytt
+<Who nb="2"/>
+* ja
+<Sync time="974.245"/>
+<Who nb="1"/>
+* menn no æ re fårr sent fårr mæi 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ ikke sannt ...
+<Who nb="2"/>
+ja * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ no æ re 
+<Event desc="leende" type="noise" extent="previous"/>
+ jo egentli 
+</Turn>
+<Turn speaker="spk2" startTime="976.415" endTime="977.011">
+<Sync time="976.415"/>
+førr 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sæint ja 
+<Event desc="me" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="977.011" endTime="978.537">
+<Sync time="977.011"/>
+ja fårr mæi så ær de de
+</Turn>
+<Turn speaker="spk2 spk1" startTime="978.537" endTime="980.97">
+<Sync time="978.537"/>
+<Who nb="1"/>
+bLi no # ferieturer barna de 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk1 spk2" startTime="980.97" endTime="992.393">
+<Sync time="980.97"/>
+<Who nb="1"/>
+de bLir de # menn såmm sakkt # nårr ann føssjt kjemm åver en viss pærjode i onngdomslive så ær de fakktisk gannske græit å bu hær
+<Who nb="2"/>
+
+<Sync time="987.576"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="987.934"/>
+<Who nb="1"/>
+menn ifra du æ femmt'n tell att'n så ær de ikke no mye arrti å finne på de ær de ikke
+<Who nb="2"/>
+* ja * næ * 
+<Event desc="me" type="pronounce" extent="begin"/>
+ næi æ kke så
+</Turn>
+<Turn speaker="spk2 spk1" startTime="992.393" endTime="994.348">
+<Sync time="992.393"/>
+<Who nb="1"/>
+jævli mye å finne på 
+<Event desc="me" type="pronounce" extent="end"/>
+
+<Who nb="2"/>
+* æi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="994.348" endTime="996.916">
+<Sync time="994.348"/>
+<Who nb="1"/>
+hær ær de ikke mye å hennge finngran i 
+<Who nb="2"/>
+* 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ æ re ikke 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="996.916" endTime="999.07">
+<Sync time="996.916"/>
+
+<Event desc="fremre klikkelyd" type="noise" extent="instantaneous"/>
+ æ kke så jævli mye liv næi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="999.07" endTime="1005.294">
+<Sync time="999.07"/>
+<Who nb="1"/>
+næi de æ fårr dåli vett du
+<Who nb="2"/>
+
+<Sync time="1000.501"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="1001.598"/>
+<Who nb="1"/>
+var 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ de # ellesj så æ re jo bra hær # 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ næi e 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ trives velldi gått da
+<Who nb="2"/>
+* ja
+</Turn>
+<Turn speaker="spk2" startTime="1005.294" endTime="1006.367">
+<Sync time="1005.294"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ ja æi å 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ jør de
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1006.367" endTime="1011.709">
+<Sync time="1006.367"/>
+<Who nb="1"/>
+e 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ jør de de æ jo så lite # sammensvæisa # ann æ velldi sammensvæisa hær
+<Who nb="2"/>
+* mm
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1011.709" endTime="1019.645">
+<Sync time="1011.709"/>
+<Who nb="1"/>
+
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ ja æ 
+<Event desc="uklart" type="pronounce" extent="end"/>
+ messt dømm såmm æ # utabyggds såmm lure på # kerr 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ me jør 
+<Event desc="leende" type="noise" extent="begin"/>
+ hær å 
+<Event desc="leende" type="noise" extent="end"/>
+ 
+<Event desc="latter" type="noise" extent="instantaneous"/>
+ # ikke sjønne åss'n vi klare å bu hær
+<Who nb="2"/>
+* mm * mm * de æ re fakktisk
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1019.645" endTime="1033.047">
+<Sync time="1019.645"/>
+<Who nb="1"/>
+menn de æ jo mannge ta dømm # kammerater å veninner sjå mæi såmm ha fLøtta ut # såmm gå på skoLe såmm sie rømm 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ savvner sæ hit att
+<Who nb="2"/>
+
+<Sync time="1026.322"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ja
+<Sync time="1026.728"/>
+<Who nb="1"/>
+så de # de æ jo noe hær såmm æ velldi bra de må jo være de
+<Who nb="2"/>
+* ja * 
+<Event desc="uklart" type="pronounce" extent="begin"/>
+ de æ re 
+<Event desc="uklart" type="pronounce" extent="end"/>
+
+<Sync time="1030.4"/>
+<Who nb="1"/>
+menn e tru kannsje ikke vi sjer de før vi kjæmm ut sjøL
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1033.047" endTime="1033.882">
+<Sync time="1033.047"/>
+næi æ kke sikkert de
+</Turn>
+<Turn speaker="spk1" startTime="1033.882" endTime="1037.912">
+<Sync time="1033.882"/>
+næi # tru ikke de # tru kke 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ de kannsje
+</Turn>
+<Turn speaker="spk2" startTime="1037.912" endTime="1039.462">
+<Sync time="1037.912"/>
+fær nå 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+ sjå
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1039.462" endTime="1040.607">
+<Sync time="1039.462"/>
+<Who nb="1"/>
+ja m hann må bare prøve
+<Who nb="2"/>
+* ja 
+<Event desc="uklart" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1040.607" endTime="1044.017">
+<Sync time="1040.607"/>
+ja
+</Turn>
+<Turn startTime="1044.017" endTime="1045.400">
+<Sync time="1044.017"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

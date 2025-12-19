@@ -1,0 +1,2730 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1045.400
+tiers? <exists>
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "alvdal_02uk"
+        xmin = 0
+        xmax = 1045.400
+        intervals: size = 336
+        intervals [1]:
+            xmin = 0
+            xmax = 25.684
+            text = ""
+        intervals [2]:
+            xmin = 25.684
+            xmax = 26.328
+            text = "ja "
+        intervals [3]:
+            xmin = 26.328
+            xmax = 27.568
+            text = ""
+        intervals [4]:
+            xmin = 27.568
+            xmax = 30.759
+            text = "ker ska me prate omm? ee vorr ær de du går på skoLe henn no?"
+        intervals [5]:
+            xmin = 30.759
+            xmax = 31.455
+            text = ""
+        intervals [6]:
+            xmin = 31.455
+            xmax = 32.242
+            text = "går du på Stosjtæia?"
+        intervals [7]:
+            xmin = 32.242
+            xmax = 33.005
+            text = ""
+        intervals [8]:
+            xmin = 33.005
+            xmax = 33.959
+            text = "å så hæli a"
+        intervals [9]:
+            xmin = 33.959
+            xmax = 37.465
+            text = ""
+        intervals [10]:
+            xmin = 37.465
+            xmax = 38.49
+            text = "de æ gått å bLi færdi snart da"
+        intervals [11]:
+            xmin = 38.49
+            xmax = 40.231
+            text = ""
+        intervals [12]:
+            xmin = 40.231
+            xmax = 41.781
+            text = ""
+        intervals [13]:
+            xmin = 41.781
+            xmax = 42.115
+            text = ""
+        intervals [14]:
+            xmin = 42.115
+            xmax = 45.835
+            text = ""
+        intervals [15]:
+            xmin = 45.835
+            xmax = 47.79
+            text = ""
+        intervals [16]:
+            xmin = 47.79
+            xmax = 48.386
+            text = ""
+        intervals [17]:
+            xmin = 48.386
+            xmax = 51.033
+            text = "* ja "
+        intervals [18]:
+            xmin = 51.033
+            xmax = 52.011
+            text = "ja"
+        intervals [19]:
+            xmin = 52.011
+            xmax = 53.966
+            text = ""
+        intervals [20]:
+            xmin = 53.966
+            xmax = 57.138
+            text = ""
+        intervals [21]:
+            xmin = 57.138
+            xmax = 57.853
+            text = "jæLLppLæier da"
+        intervals [22]:
+            xmin = 57.853
+            xmax = 59.117
+            text = ""
+        intervals [23]:
+            xmin = 59.117
+            xmax = 63.29
+            text = " ja de va velldi gøy "
+        intervals [24]:
+            xmin = 63.29
+            xmax = 70.087
+            text = "de var kjemmpegøy når de sto på menn # du kjæmm ikke så velldi lanngt me denn jåbben hær # fasst"
+        intervals [25]:
+            xmin = 70.087
+            xmax = 72.4
+            text = " ikke * næi"
+        intervals [26]:
+            xmin = 72.4
+            xmax = 74.689
+            text = " ..."
+        intervals [27]:
+            xmin = 74.689
+            xmax = 75.834
+            text = ""
+        intervals [28]:
+            xmin = 75.834
+            xmax = 77.36
+            text = "de ær de?"
+        intervals [29]:
+            xmin = 77.36
+            xmax = 78.195
+            text = ""
+        intervals [30]:
+            xmin = 78.195
+            xmax = 80.055
+            text = " ?"
+        intervals [31]:
+            xmin = 80.055
+            xmax = 90.739
+            text = ""
+        intervals [32]:
+            xmin = 90.739
+            xmax = 91.073
+            text = "ja"
+        intervals [33]:
+            xmin = 91.073
+            xmax = 94.388
+            text = ""
+        intervals [34]:
+            xmin = 94.388
+            xmax = 99.515
+            text = " litt rart"
+        intervals [35]:
+            xmin = 99.515
+            xmax = 100.374
+            text = ""
+        intervals [36]:
+            xmin = 100.374
+            xmax = 103.308
+            text = ""
+        intervals [37]:
+            xmin = 103.308
+            xmax = 104.763
+            text = ""
+        intervals [38]:
+            xmin = 104.763
+            xmax = 107.076
+            text = " te ferie sikkert"
+        intervals [39]:
+            xmin = 107.076
+            xmax = 107.935
+            text = ""
+        intervals [40]:
+            xmin = 107.935
+            xmax = 109.414
+            text = " gått"
+        intervals [41]:
+            xmin = 109.414
+            xmax = 112.538
+            text = ""
+        intervals [42]:
+            xmin = 112.538
+            xmax = 116.878
+            text = " å ikke jorrt noon tinng"
+        intervals [43]:
+            xmin = 116.878
+            xmax = 119.692
+            text = "* mm"
+        intervals [44]:
+            xmin = 119.692
+            xmax = 125.296
+            text = ""
+        intervals [45]:
+            xmin = 125.296
+            xmax = 125.868
+            text = ""
+        intervals [46]:
+            xmin = 125.868
+            xmax = 130.351
+            text = ""
+        intervals [47]:
+            xmin = 130.351
+            xmax = 131.353
+            text = ""
+        intervals [48]:
+            xmin = 131.353
+            xmax = 133.642
+            text = "så re bi lissåmm mere utjiffter enn ..."
+        intervals [49]:
+            xmin = 133.642
+            xmax = 134.954
+            text = " på"
+        intervals [50]:
+            xmin = 134.954
+            xmax = 139.771
+            text = ""
+        intervals [51]:
+            xmin = 139.771
+            xmax = 147.211
+            text = " # sånn sett menn ee # vi ær så avhenngi av att de ska gå bra nårr vi ha så j- # vannvitti mye jell vett du"
+        intervals [52]:
+            xmin = 147.211
+            xmax = 148.69
+            text = ""
+        intervals [53]:
+            xmin = 148.69
+            xmax = 149.906
+            text = "ha vi så m ..."
+        intervals [54]:
+            xmin = 149.906
+            xmax = 151.241
+            text = ""
+        intervals [55]:
+            xmin = 151.241
+            xmax = 152.005
+            text = "sekks millioner"
+        intervals [56]:
+            xmin = 152.005
+            xmax = 155.487
+            text = " * ja"
+        intervals [57]:
+            xmin = 155.487
+            xmax = 157.514
+            text = "de æ nåkk å ut me de ær de "
+        intervals [58]:
+            xmin = 157.514
+            xmax = 158.039
+            text = ""
+        intervals [59]:
+            xmin = 158.039
+            xmax = 161.163
+            text = "de æ gannske tøfft nå vi ær såppass onng værrtfall # ær de"
+        intervals [60]:
+            xmin = 161.163
+            xmax = 165.909
+            text = " æ de æ jo mannge mannge tus'n i lån bare værrt # eller vær måne"
+        intervals [61]:
+            xmin = 165.909
+            xmax = 166.577
+            text = ""
+        intervals [62]:
+            xmin = 166.577
+            xmax = 172.086
+            text = " ee næi de # de æ gannske hårrible priser menn # så ær de jo hårrible priser vi får inn att å ra"
+        intervals [63]:
+            xmin = 172.086
+            xmax = 172.634
+            text = ""
+        intervals [64]:
+            xmin = 172.634
+            xmax = 180.241
+            text = " så de æ jo helt uttruli # de ær de fakktisk # menn ee"
+        intervals [65]:
+            xmin = 180.241
+            xmax = 184.414
+            text = " sånn sett ær de velldi græit å"
+        intervals [66]:
+            xmin = 184.414
+            xmax = 189.446
+            text = ""
+        intervals [67]:
+            xmin = 189.446
+            xmax = 189.994
+            text = ""
+        intervals [68]:
+            xmin = 189.994
+            xmax = 193.69
+            text = "æ vi ikke gammeL # nå vi fakktisk æ jellsfri på fjøse ra"
+        intervals [69]:
+            xmin = 193.69
+            xmax = 194.406
+            text = ""
+        intervals [70]:
+            xmin = 194.406
+            xmax = 203.325
+            text = "menn de spøssj nå vorr gått de går # de kann jo gått henne vi bygg omm de te nå anna å # viss vi sjer att de ikke går # græit # kann gått henne"
+        intervals [71]:
+            xmin = 203.325
+            xmax = 207.808
+            text = " ska klare å # ha gaarn værrtfall"
+        intervals [72]:
+            xmin = 207.808
+            xmax = 208.548
+            text = ""
+        intervals [73]:
+            xmin = 208.548
+            xmax = 210.503
+            text = " ?"
+        intervals [74]:
+            xmin = 210.503
+            xmax = 214.223
+            text = ""
+        intervals [75]:
+            xmin = 214.223
+            xmax = 215.535
+            text = "mye mjøLLk har døkk a?"
+        intervals [76]:
+            xmin = 215.535
+            xmax = 219.828
+            text = "* ja"
+        intervals [77]:
+            xmin = 219.828
+            xmax = 222.046
+            text = " ha kke mye døkk hell næi"
+        intervals [78]:
+            xmin = 222.046
+            xmax = 223.739
+            text = ""
+        intervals [79]:
+            xmin = 223.739
+            xmax = 224.955
+            text = "vi ha fæmm å åtti vi no menn "
+        intervals [80]:
+            xmin = 224.955
+            xmax = 225.528
+            text = ""
+        intervals [81]:
+            xmin = 225.528
+            xmax = 234.995
+            text = "de æ kke # de æ så dåli fjøs vett du # ell # de æ jo hælt græit de varrt jo byggd omm no føssjt'n på nitti # tell løsdrifft # menn"
+        intervals [82]:
+            xmin = 234.995
+            xmax = 242.292
+            text = "de æ jo ee de æ jo så mye regler å åss'n tinng ska vær så de de de dyrt å bygge omm att rett å sjlett"
+        intervals [83]:
+            xmin = 242.292
+            xmax = 246.775
+            text = ""
+        intervals [84]:
+            xmin = 246.775
+            xmax = 249.207
+            text = ""
+        intervals [85]:
+            xmin = 249.207
+            xmax = 250.924
+            text = ""
+        intervals [86]:
+            xmin = 250.924
+            xmax = 252.283
+            text = "bil'n går ska kjøpe n?"
+        intervals [87]:
+            xmin = 252.283
+            xmax = 253.452
+            text = ""
+        intervals [88]:
+            xmin = 253.452
+            xmax = 254.597
+            text = ""
+        intervals [89]:
+            xmin = 254.597
+            xmax = 255.861
+            text = ""
+        intervals [90]:
+            xmin = 255.861
+            xmax = 259.891
+            text = "hunn- æi e ha sakkt ee ve hurrti hurrti avjø'lse ska ha hunndre å femm å træddve fårr n"
+        intervals [91]:
+            xmin = 259.891
+            xmax = 260.964
+            text = ""
+        intervals [92]:
+            xmin = 260.964
+            xmax = 270.264
+            text = ""
+        intervals [93]:
+            xmin = 270.264
+            xmax = 272.339
+            text = ""
+        intervals [94]:
+            xmin = 272.339
+            xmax = 276.011
+            text = " næi a"
+        intervals [95]:
+            xmin = 276.011
+            xmax = 281.067
+            text = " roli på gass'n # så bLi re helt anna nårr du ha me en onnge # de bi helt anna"
+        intervals [96]:
+            xmin = 281.067
+            xmax = 281.711
+            text = ""
+        intervals [97]:
+            xmin = 281.711
+            xmax = 284.501
+            text = " ..."
+        intervals [98]:
+            xmin = 284.501
+            xmax = 286.504
+            text = "* ja"
+        intervals [99]:
+            xmin = 286.504
+            xmax = 289.986
+            text = ""
+        intervals [100]:
+            xmin = 289.986
+            xmax = 291.584
+            text = ""
+        intervals [101]:
+            xmin = 291.584
+            xmax = 299.144
+            text = " alldri bruke på måte"
+        intervals [102]:
+            xmin = 299.144
+            xmax = 300.217
+            text = ""
+        intervals [103]:
+            xmin = 300.217
+            xmax = 303.269
+            text = " ny # nesste år"
+        intervals [104]:
+            xmin = 303.269
+            xmax = 303.746
+            text = ""
+        intervals [105]:
+            xmin = 303.746
+            xmax = 307.729
+            text = ""
+        intervals [106]:
+            xmin = 307.729
+            xmax = 312.999
+            text = " menn de æ fårr tranngt # de æ bar så vitt e fæ barnevånngna inni"
+        intervals [107]:
+            xmin = 312.999
+            xmax = 313.357
+            text = ""
+        intervals [108]:
+            xmin = 313.357
+            xmax = 319.486
+            text = " # stassjonsvånngn"
+        intervals [109]:
+            xmin = 319.486
+            xmax = 321.823
+            text = ""
+        intervals [110]:
+            xmin = 321.823
+            xmax = 327.451
+            text = "næi # menn de æ pen bil da # jækla fin bil # de ær de"
+        intervals [111]:
+            xmin = 327.451
+            xmax = 328.071
+            text = ""
+        intervals [112]:
+            xmin = 328.071
+            xmax = 329.287
+            text = "du du kjøre ra du?"
+        intervals [113]:
+            xmin = 329.287
+            xmax = 332.649
+            text = ""
+        intervals [114]:
+            xmin = 332.649
+            xmax = 334.008
+            text = "å desemmberbarn du å ja"
+        intervals [115]:
+            xmin = 334.008
+            xmax = 334.723
+            text = ""
+        intervals [116]:
+            xmin = 334.723
+            xmax = 335.677
+            text = " ha bussjda i dessemmber"
+        intervals [117]:
+            xmin = 335.677
+            xmax = 335.939
+            text = ""
+        intervals [118]:
+            xmin = 335.939
+            xmax = 341.495
+            text = " # menn da bLir de # du har bynnt å kjøre # nå eller?"
+        intervals [119]:
+            xmin = 341.495
+            xmax = 346.026
+            text = ""
+        intervals [120]:
+            xmin = 346.026
+            xmax = 349.269
+            text = "å de æ gått da # å teorin de e nå værrtfall ikke nå arrti"
+        intervals [121]:
+            xmin = 349.269
+            xmax = 352.703
+            text = ""
+        intervals [122]:
+            xmin = 352.703
+            xmax = 353.562
+            text = "har ru bil a?"
+        intervals [123]:
+            xmin = 353.562
+            xmax = 356.376
+            text = " ..."
+        intervals [124]:
+            xmin = 356.376
+            xmax = 358.26
+            text = ""
+        intervals [125]:
+            xmin = 358.26
+            xmax = 360.692
+            text = ""
+        intervals [126]:
+            xmin = 360.692
+            xmax = 364.15
+            text = ""
+        intervals [127]:
+            xmin = 364.15
+            xmax = 365.390
+            text = ""
+        intervals [128]:
+            xmin = 365.390
+            xmax = 373.641
+            text = " kjøffte ra Vennto æi fårr træddve tus'n # føssjte æi joL"
+        intervals [129]:
+            xmin = 373.641
+            xmax = 376.718
+            text = " de"
+        intervals [130]:
+            xmin = 376.718
+            xmax = 380.963
+            text = ""
+        intervals [131]:
+            xmin = 380.963
+            xmax = 385.279
+            text = " jækla dyrt"
+        intervals [132]:
+            xmin = 385.279
+            xmax = 392.648
+            text = " ja #"
+        intervals [133]:
+            xmin = 392.648
+            xmax = 400.875
+            text = ""
+        intervals [134]:
+            xmin = 400.875
+            xmax = 402.664
+            text = ""
+        intervals [135]:
+            xmin = 402.664
+            xmax = 409.937
+            text = " så ## da ær de helt græit"
+        intervals [136]:
+            xmin = 409.937
+            xmax = 413.419
+            text = ""
+        intervals [137]:
+            xmin = 413.419
+            xmax = 415.16
+            text = ""
+        intervals [138]:
+            xmin = 415.16
+            xmax = 418.093
+            text = "* ja"
+        intervals [139]:
+            xmin = 418.093
+            xmax = 427.751
+            text = " # hann sæile bakåver å æi komm # oppover"
+        intervals [140]:
+            xmin = 427.751
+            xmax = 428.323
+            text = ""
+        intervals [141]:
+            xmin = 428.323
+            xmax = 434.261
+            text = " på bil'n minn"
+        intervals [142]:
+            xmin = 434.261
+            xmax = 435.167
+            text = ""
+        intervals [143]:
+            xmin = 435.167
+            xmax = 438.792
+            text = " # kjæmm forrt sjø"
+        intervals [144]:
+            xmin = 438.792
+            xmax = 439.102
+            text = ""
+        intervals [145]:
+            xmin = 439.102
+            xmax = 443.204
+            text = "nå n føssjt # sjlepp så ## menn menn"
+        intervals [146]:
+            xmin = 443.204
+            xmax = 446.829
+            text = ""
+        intervals [147]:
+            xmin = 446.829
+            xmax = 452.004
+            text = " fåsjtår att de æ såppass bra annlegg i n # de æ pent byggd vett du # ne'i gåLLve"
+        intervals [148]:
+            xmin = 452.004
+            xmax = 453.053
+            text = ""
+        intervals [149]:
+            xmin = 453.053
+            xmax = 456.392
+            text = " kann jo brukes ti konngkuranngser da"
+        intervals [150]:
+            xmin = 456.392
+            xmax = 458.61
+            text = ""
+        intervals [151]:
+            xmin = 458.61
+            xmax = 465.359
+            text = " tus'n"
+        intervals [152]:
+            xmin = 465.359
+            xmax = 468.793
+            text = " du kjemm vaffall "
+        intervals [153]:
+            xmin = 468.793
+            xmax = 478.237
+            text = ""
+        intervals [154]:
+            xmin = 478.237
+            xmax = 480.741
+            text = ""
+        intervals [155]:
+            xmin = 480.741
+            xmax = 486.512
+            text = " å 'da må ru lete lennge' næi hann skulle sjå på to stykker i Nor-Nårrge ra sjø # denn uka hær"
+        intervals [156]:
+            xmin = 486.512
+            xmax = 497.482
+            text = ""
+        intervals [157]:
+            xmin = 497.482
+            xmax = 500.105
+            text = "menn fåLLk vill jo prøve sæi ra # dømm vill jo de"
+        intervals [158]:
+            xmin = 500.105
+            xmax = 501.011
+            text = ""
+        intervals [159]:
+            xmin = 501.011
+            xmax = 507.14
+            text = "-ræima ska sjifftes på n nå vet du"
+        intervals [160]:
+            xmin = 507.14
+            xmax = 507.927
+            text = ""
+        intervals [161]:
+            xmin = 507.927
+            xmax = 513.269
+            text = " mye så æ re græit å ha n sjøL"
+        intervals [162]:
+            xmin = 513.269
+            xmax = 513.984
+            text = ""
+        intervals [163]:
+            xmin = 513.984
+            xmax = 521.544
+            text = ""
+        intervals [164]:
+            xmin = 521.544
+            xmax = 524.787
+            text = " vi få sållt n"
+        intervals [165]:
+            xmin = 524.787
+            xmax = 528.651
+            text = ""
+        intervals [166]:
+            xmin = 528.651
+            xmax = 531.680
+            text = ""
+        intervals [167]:
+            xmin = 531.680
+            xmax = 535.663
+            text = " F3 vett du"
+        intervals [168]:
+            xmin = 535.663
+            xmax = 537.523
+            text = ""
+        intervals [169]:
+            xmin = 537.523
+            xmax = 537.762
+            text = ""
+        intervals [170]:
+            xmin = 537.762
+            xmax = 541.649
+            text = "ho hadde satt n inn fårr hunndre å femm å kjue # å de kjæmm noon å ser på n no"
+        intervals [171]:
+            xmin = 541.649
+            xmax = 548.398
+            text = " få att mer fårr n Æudi såmm ær firejusjtrekk"
+        intervals [172]:
+            xmin = 548.398
+            xmax = 549.042
+            text = ""
+        intervals [173]:
+            xmin = 549.042
+            xmax = 551.451
+            text = "fårr Æudiann ligg nå høyar i pris da"
+        intervals [174]:
+            xmin = 551.451
+            xmax = 552.691
+            text = ""
+        intervals [175]:
+            xmin = 552.691
+            xmax = 555.171
+            text = ""
+        intervals [176]:
+            xmin = 555.171
+            xmax = 556.125
+            text = ""
+        intervals [177]:
+            xmin = 556.125
+            xmax = 559.487
+            text = "e væit søsster mi ho bytta inn a-sekks'n sinn vett du # de æ fremmjusjtrekk"
+        intervals [178]:
+            xmin = 559.487
+            xmax = 559.749
+            text = ""
+        intervals [179]:
+            xmin = 559.749
+            xmax = 563.898
+            text = " sku ha"
+        intervals [180]:
+            xmin = 563.898
+            xmax = 564.447
+            text = ""
+        intervals [181]:
+            xmin = 564.447
+            xmax = 572.531
+            text = " førr hunndre å kjue"
+        intervals [182]:
+            xmin = 572.531
+            xmax = 574.844
+            text = ""
+        intervals [183]:
+            xmin = 574.844
+            xmax = 578.111
+            text = " få hunndre å femm å træddve få minn me ett annlegg fårr træddve tus'n?"
+        intervals [184]:
+            xmin = 578.111
+            xmax = 581.664
+            text = "* ja"
+        intervals [185]:
+            xmin = 581.664
+            xmax = 585.861
+            text = ""
+        intervals [186]:
+            xmin = 585.861
+            xmax = 588.127
+            text = ""
+        intervals [187]:
+            xmin = 588.127
+            xmax = 597.046
+            text = " ha jo mye omm å bruke pennger på når æi ha mulihet tell å bruke # på nå anna på måte "
+        intervals [188]:
+            xmin = 597.046
+            xmax = 599.192
+            text = " # studielån da"
+        intervals [189]:
+            xmin = 599.192
+            xmax = 600.48
+            text = ""
+        intervals [190]:
+            xmin = 600.48
+            xmax = 604.701
+            text = "de æ værrtfall ikke nå arrti # anngre såmm ett # lyn # no"
+        intervals [191]:
+            xmin = 604.701
+            xmax = 605.249
+            text = ""
+        intervals [192]:
+            xmin = 605.249
+            xmax = 608.778
+            text = ""
+        intervals [193]:
+            xmin = 608.778
+            xmax = 611.067
+            text = ""
+        intervals [194]:
+            xmin = 611.067
+            xmax = 618.579
+            text = " går jo så mannge måner vett du før du æ færdi me re"
+        intervals [195]:
+            xmin = 618.579
+            xmax = 619.39
+            text = ""
+        intervals [196]:
+            xmin = 619.39
+            xmax = 624.946
+            text = " forrt kvitt de"
+        intervals [197]:
+            xmin = 624.946
+            xmax = 626.258
+            text = ""
+        intervals [198]:
+            xmin = 626.258
+            xmax = 631.194
+            text = " sjå"
+        intervals [199]:
+            xmin = 631.194
+            xmax = 635.319
+            text = ""
+        intervals [200]:
+            xmin = 635.319
+            xmax = 642.092
+            text = " # de må n jør ja"
+        intervals [201]:
+            xmin = 642.092
+            xmax = 643.976
+            text = ""
+        intervals [202]:
+            xmin = 643.976
+            xmax = 646.766
+            text = ""
+        intervals [203]:
+            xmin = 646.766
+            xmax = 648.054
+            text = ""
+        intervals [204]:
+            xmin = 648.054
+            xmax = 653.277
+            text = "litt till ja # ja menn # ja ja ja # ja de va fært"
+        intervals [205]:
+            xmin = 653.277
+            xmax = 654.589
+            text = ""
+        intervals [206]:
+            xmin = 654.589
+            xmax = 655.257
+            text = "ja si de"
+        intervals [207]:
+            xmin = 655.257
+            xmax = 658.787
+            text = ""
+        intervals [208]:
+            xmin = 658.787
+            xmax = 660.504
+            text = "dyr # ja menn vi har jo snakka omm dyr"
+        intervals [209]:
+            xmin = 660.504
+            xmax = 663.485
+            text = "* stort sett"
+        intervals [210]:
+            xmin = 663.485
+            xmax = 668.898
+            text = " alle sjlakks dyr # væit ikke omm noon såmm ska ha kattonnger?"
+        intervals [211]:
+            xmin = 668.898
+            xmax = 672.499
+            text = ""
+        intervals [212]:
+            xmin = 672.499
+            xmax = 680.607
+            text = " måtte de"
+        intervals [213]:
+            xmin = 680.607
+            xmax = 681.418
+            text = ""
+        intervals [214]:
+            xmin = 681.418
+            xmax = 685.854
+            text = ""
+        intervals [215]:
+            xmin = 685.854
+            xmax = 689.932
+            text = "menn e har ra fåssjatt fire hemme såmm ikke ha bLitt s- sennt # førr to a rømm ska te Kristiansann"
+        intervals [216]:
+            xmin = 689.932
+            xmax = 690.743
+            text = ""
+        intervals [217]:
+            xmin = 690.743
+            xmax = 693.223
+            text = "* så æi må råke på en trailer såmm kann ta på rømm"
+        intervals [218]:
+            xmin = 693.223
+            xmax = 694.297
+            text = ""
+        intervals [219]:
+            xmin = 694.297
+            xmax = 697.135
+            text = "å så varrt jo ene katt'n min borrte nå i vår vett du"
+        intervals [220]:
+            xmin = 697.135
+            xmax = 697.517
+            text = ""
+        intervals [221]:
+            xmin = 697.517
+            xmax = 703.432
+            text = "borrte # så i gårr kvell så spranng de en fremmen katt inn i huse åt mæi # nårr æi sku rope på rømm anndre # de va hann"
+        intervals [222]:
+            xmin = 703.432
+            xmax = 704.338
+            text = "* mm"
+        intervals [223]:
+            xmin = 704.338
+            xmax = 705.53
+            text = "komm att etter ett hallt år"
+        intervals [224]:
+            xmin = 705.53
+            xmax = 706.198
+            text = ""
+        intervals [225]:
+            xmin = 706.198
+            xmax = 710.92
+            text = " # menn ja"
+        intervals [226]:
+            xmin = 710.92
+            xmax = 713.472
+            text = ""
+        intervals [227]:
+            xmin = 713.472
+            xmax = 720.073
+            text = "ikke sjett n # så no ha e jo plussjli fire sjøL a førr e hadde jo tre # tre sjøL # pLuss a kattonngan menn så"
+        intervals [228]:
+            xmin = 720.073
+            xmax = 723.751
+            text = ""
+        intervals [229]:
+            xmin = 723.751
+            xmax = 724.657
+            text = ""
+        intervals [230]:
+            xmin = 724.657
+            xmax = 735.222
+            text = " # ha kke hillsa på hann før si # næi"
+        intervals [231]:
+            xmin = 735.222
+            xmax = 738.298
+            text = " # ja ja # jåbber du på Esso nå ell? "
+        intervals [232]:
+            xmin = 738.298
+            xmax = 739.848
+            text = "* ja"
+        intervals [233]:
+            xmin = 739.848
+            xmax = 740.301
+            text = "hæLLjane?"
+        intervals [234]:
+            xmin = 740.301
+            xmax = 740.707
+            text = ""
+        intervals [235]:
+            xmin = 740.707
+            xmax = 741.709
+            text = "græit å tene litt da"
+        intervals [236]:
+            xmin = 741.709
+            xmax = 743.998
+            text = ""
+        intervals [237]:
+            xmin = 743.998
+            xmax = 744.714
+            text = ""
+        intervals [238]:
+            xmin = 744.714
+            xmax = 748.553
+            text = " ..."
+        intervals [239]:
+            xmin = 748.553
+            xmax = 749.888
+            text = " kæ mye ... ?"
+        intervals [240]:
+            xmin = 749.888
+            xmax = 751.939
+            text = ""
+        intervals [241]:
+            xmin = 751.939
+            xmax = 752.392
+            text = "ja"
+        intervals [242]:
+            xmin = 752.392
+            xmax = 754.085
+            text = ""
+        intervals [243]:
+            xmin = 754.085
+            xmax = 755.611
+            text = "skatt da sikkert å"
+        intervals [244]:
+            xmin = 755.611
+            xmax = 756.112
+            text = ""
+        intervals [245]:
+            xmin = 756.112
+            xmax = 756.637
+            text = ""
+        intervals [246]:
+            xmin = 756.637
+            xmax = 761.096
+            text = " lure"
+        intervals [247]:
+            xmin = 761.096
+            xmax = 765.603
+            text = ""
+        intervals [248]:
+            xmin = 765.603
+            xmax = 768.918
+            text = " fLæire veninner tå mæi såmm jåbba dær i såmmar da "
+        intervals [249]:
+            xmin = 768.918
+            xmax = 769.371
+            text = ""
+        intervals [250]:
+            xmin = 769.371
+            xmax = 772.996
+            text = " noen tinng # hunndre å to å førrti kroner timen"
+        intervals [251]:
+            xmin = 772.996
+            xmax = 779.959
+            text = "* ja * ehe"
+        intervals [252]:
+            xmin = 779.959
+            xmax = 788.401
+            text = ""
+        intervals [253]:
+            xmin = 788.401
+            xmax = 795.198
+            text = "* iaffall ikke bra ... * ja * de æ urettfærrdi * mm"
+        intervals [254]:
+            xmin = 795.198
+            xmax = 801.78
+            text = " egentli # de æ ikke de"
+        intervals [255]:
+            xmin = 801.78
+            xmax = 806.335
+            text = "* ja"
+        intervals [256]:
+            xmin = 806.335
+            xmax = 811.104
+            text = "menn stort sett æ jo de æ jo Finnd'n stort sett såmm du tene så bra på ra # de ær de"
+        intervals [257]:
+            xmin = 811.104
+            xmax = 814.323
+            text = "menn dømm trenng jo fåLLk dær så de æ jo ikke så velldi vannskli å få jåbb dær tru e"
+        intervals [258]:
+            xmin = 814.323
+            xmax = 817.685
+            text = "* næi"
+        intervals [259]:
+            xmin = 817.685
+            xmax = 824.124
+            text = " a # bare jobbe?"
+        intervals [260]:
+            xmin = 824.124
+            xmax = 825.841
+            text = ""
+        intervals [261]:
+            xmin = 825.841
+            xmax = 826.437
+            text = "du vet ikke?"
+        intervals [262]:
+            xmin = 826.437
+            xmax = 832.28
+            text = ""
+        intervals [263]:
+            xmin = 832.28
+            xmax = 840.46
+            text = " # næi"
+        intervals [264]:
+            xmin = 840.46
+            xmax = 841.008
+            text = ""
+        intervals [265]:
+            xmin = 841.008
+            xmax = 842.582
+            text = " bLi a"
+        intervals [266]:
+            xmin = 842.582
+            xmax = 844.108
+            text = " ikke nå"
+        intervals [267]:
+            xmin = 844.108
+            xmax = 845.3
+            text = ""
+        intervals [268]:
+            xmin = 845.3
+            xmax = 848.901
+            text = ""
+        intervals [269]:
+            xmin = 848.901
+            xmax = 849.879
+            text = "har ru lysst tl e?"
+        intervals [270]:
+            xmin = 849.879
+            xmax = 852.145
+            text = ""
+        intervals [271]:
+            xmin = 852.145
+            xmax = 852.908
+            text = "ja de ha varrt tøfft"
+        intervals [272]:
+            xmin = 852.908
+            xmax = 853.743
+            text = ""
+        intervals [273]:
+            xmin = 853.743
+            xmax = 855.865
+            text = "ja dæ s- ja synns e ser så hæli ut"
+        intervals [274]:
+            xmin = 855.865
+            xmax = 858.464
+            text = ""
+        intervals [275]:
+            xmin = 858.464
+            xmax = 865.761
+            text = " fLate # æ de æ vør så hæli"
+        intervals [276]:
+            xmin = 865.761
+            xmax = 868.742
+            text = " ja de æ"
+        intervals [277]:
+            xmin = 868.742
+            xmax = 870.435
+            text = ""
+        intervals [278]:
+            xmin = 870.435
+            xmax = 872.891
+            text = ""
+        intervals [279]:
+            xmin = 872.891
+            xmax = 873.368
+            text = "jør de?"
+        intervals [280]:
+            xmin = 873.368
+            xmax = 880.117
+            text = "* hm * ja"
+        intervals [281]:
+            xmin = 880.117
+            xmax = 880.618
+            text = "ja ja ja"
+        intervals [282]:
+            xmin = 880.618
+            xmax = 884.124
+            text = " de æ"
+        intervals [283]:
+            xmin = 884.124
+            xmax = 886.056
+            text = ""
+        intervals [284]:
+            xmin = 886.056
+            xmax = 887.748
+            text = ""
+        intervals [285]:
+            xmin = 887.748
+            xmax = 893.52
+            text = "menn em # de æ sikkert # knakanes goe karrakterer å sånn sikkert eller? # går de på karrakterer detta?"
+        intervals [286]:
+            xmin = 893.52
+            xmax = 899.434
+            text = " menn va sjlakks tesster ær de"
+        intervals [287]:
+            xmin = 899.434
+            xmax = 900.293
+            text = ""
+        intervals [288]:
+            xmin = 900.293
+            xmax = 905.11
+            text = ""
+        intervals [289]:
+            xmin = 905.11
+            xmax = 905.635
+            text = "ja"
+        intervals [290]:
+            xmin = 905.635
+            xmax = 907.781
+            text = ""
+        intervals [291]:
+            xmin = 907.781
+            xmax = 909.999
+            text = "hm # så mye rart"
+        intervals [292]:
+            xmin = 909.999
+            xmax = 915.961
+            text = ""
+        intervals [293]:
+            xmin = 915.961
+            xmax = 920.707
+            text = " da?"
+        intervals [294]:
+            xmin = 920.707
+            xmax = 926.668
+            text = "* ja"
+        intervals [295]:
+            xmin = 926.668
+            xmax = 927.074
+            text = "ja ja"
+        intervals [296]:
+            xmin = 927.074
+            xmax = 931.104
+            text = ""
+        intervals [297]:
+            xmin = 931.104
+            xmax = 934.395
+            text = "de æ mannge år da menn klart viss hann virrkli ha lysst tl de så æ re jo værrt de ra"
+        intervals [298]:
+            xmin = 934.395
+            xmax = 939.784
+            text = "* mm"
+        intervals [299]:
+            xmin = 939.784
+            xmax = 940.285
+            text = "jør de?"
+        intervals [300]:
+            xmin = 940.285
+            xmax = 941.406
+            text = ""
+        intervals [301]:
+            xmin = 941.406
+            xmax = 945.604
+            text = "næi da ær de jamm'm mæi m da æ re værrt å ta sjanngs'n da # ba fårr å prøve"
+        intervals [302]:
+            xmin = 945.604
+            xmax = 949.086
+            text = " gørarrti # æi a da missunne e ræ asså viss du kjæmm inn dær"
+        intervals [303]:
+            xmin = 949.086
+            xmax = 950.421
+            text = ""
+        intervals [304]:
+            xmin = 950.421
+            xmax = 954.976
+            text = "mm # menn du vet ikke omm fLer såmm ska # eller såmm har søkkt lissåmm?"
+        intervals [305]:
+            xmin = 954.976
+            xmax = 956.255
+            text = ""
+        intervals [306]:
+            xmin = 956.255
+            xmax = 958.458
+            text = " ær no probLem?"
+        intervals [307]:
+            xmin = 958.458
+            xmax = 960.938
+            text = ""
+        intervals [308]:
+            xmin = 960.938
+            xmax = 964.492
+            text = " dagen kjæmm si # næi ra de æ vell gått å kåmme sæ unna litt å"
+        intervals [309]:
+            xmin = 964.492
+            xmax = 965.231
+            text = ""
+        intervals [310]:
+            xmin = 965.231
+            xmax = 969.714
+            text = "prøve # prøve no nytt # de tru æi æ positift"
+        intervals [311]:
+            xmin = 969.714
+            xmax = 974.245
+            text = " ha d- # kømme mæi ut a byggda bare fårr å prøve no nytt"
+        intervals [312]:
+            xmin = 974.245
+            xmax = 976.415
+            text = " ikke sannt ..."
+        intervals [313]:
+            xmin = 976.415
+            xmax = 977.011
+            text = ""
+        intervals [314]:
+            xmin = 977.011
+            xmax = 978.537
+            text = "ja fårr mæi så ær de de"
+        intervals [315]:
+            xmin = 978.537
+            xmax = 980.97
+            text = "* ja"
+        intervals [316]:
+            xmin = 980.97
+            xmax = 987.576
+            text = "de bLir de # menn såmm sakkt # nårr ann føssjt kjemm åver en viss pærjode i onngdomslive så ær de fakktisk gannske græit å bu hær"
+        intervals [317]:
+            xmin = 987.576
+            xmax = 987.934
+            text = ""
+        intervals [318]:
+            xmin = 987.934
+            xmax = 992.393
+            text = "menn ifra du æ femmt'n tell att'n så ær de ikke no mye arrti å finne på de ær de ikke"
+        intervals [319]:
+            xmin = 992.393
+            xmax = 994.348
+            text = "* æi"
+        intervals [320]:
+            xmin = 994.348
+            xmax = 996.916
+            text = "hær ær de ikke mye å hennge finngran i "
+        intervals [321]:
+            xmin = 996.916
+            xmax = 999.07
+            text = ""
+        intervals [322]:
+            xmin = 999.07
+            xmax = 1000.501
+            text = "næi de æ fårr dåli vett du"
+        intervals [323]:
+            xmin = 1000.501
+            xmax = 1001.598
+            text = ""
+        intervals [324]:
+            xmin = 1001.598
+            xmax = 1005.294
+            text = " trives velldi gått da"
+        intervals [325]:
+            xmin = 1005.294
+            xmax = 1006.367
+            text = ""
+        intervals [326]:
+            xmin = 1006.367
+            xmax = 1011.709
+            text = " jør de de æ jo så lite # sammensvæisa # ann æ velldi sammensvæisa hær"
+        intervals [327]:
+            xmin = 1011.709
+            xmax = 1019.645
+            text = "* mm * mm * de æ re fakktisk"
+        intervals [328]:
+            xmin = 1019.645
+            xmax = 1026.322
+            text = " savvner sæ hit att"
+        intervals [329]:
+            xmin = 1026.322
+            xmax = 1026.728
+            text = ""
+        intervals [330]:
+            xmin = 1026.728
+            xmax = 1030.4
+            text = "så de # de æ jo noe hær såmm æ velldi bra de må jo være de"
+        intervals [331]:
+            xmin = 1030.4
+            xmax = 1033.047
+            text = "menn e tru kannsje ikke vi sjer de før vi kjæmm ut sjøL"
+        intervals [332]:
+            xmin = 1033.047
+            xmax = 1033.882
+            text = ""
+        intervals [333]:
+            xmin = 1033.882
+            xmax = 1037.912
+            text = " de kannsje"
+        intervals [334]:
+            xmin = 1037.912
+            xmax = 1039.462
+            text = ""
+        intervals [335]:
+            xmin = 1039.462
+            xmax = 1040.607
+            text = "ja m hann må bare prøve"
+        intervals [336]:
+            xmin = 1040.607
+            xmax = 1045.400
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "alvdal_01um"
+        xmin = 0
+        xmax = 1045.400
+        intervals: size = 335
+        intervals [1]:
+            xmin = 0
+            xmax = 26.328
+            text = ""
+        intervals [2]:
+            xmin = 26.328
+            xmax = 27.568
+            text = "ker ska me prate omm?"
+        intervals [3]:
+            xmin = 27.568
+            xmax = 30.759
+            text = ""
+        intervals [4]:
+            xmin = 30.759
+            xmax = 31.455
+            text = "Stosjtæia"
+        intervals [5]:
+            xmin = 31.455
+            xmax = 32.242
+            text = "* ja"
+        intervals [6]:
+            xmin = 32.242
+            xmax = 33.005
+            text = "de sisste åre"
+        intervals [7]:
+            xmin = 33.005
+            xmax = 33.959
+            text = "* mm"
+        intervals [8]:
+            xmin = 33.959
+            xmax = 37.465
+            text = "påbyggning # ell de æ ikke så velldi hæli de menn"
+        intervals [9]:
+            xmin = 37.465
+            xmax = 38.49
+            text = ""
+        intervals [10]:
+            xmin = 38.49
+            xmax = 40.231
+            text = " jævli my å jøre i år"
+        intervals [11]:
+            xmin = 40.231
+            xmax = 41.781
+            text = ""
+        intervals [12]:
+            xmin = 41.781
+            xmax = 42.115
+            text = "hm?"
+        intervals [13]:
+            xmin = 42.115
+            xmax = 45.835
+            text = "* næi * næi"
+        intervals [14]:
+            xmin = 45.835
+            xmax = 47.79
+            text = ""
+        intervals [15]:
+            xmin = 47.79
+            xmax = 48.386
+            text = "sæi ru de?"
+        intervals [16]:
+            xmin = 48.386
+            xmax = 51.033
+            text = " grunnleggene"
+        intervals [17]:
+            xmin = 51.033
+            xmax = 52.011
+            text = ""
+        intervals [18]:
+            xmin = 52.011
+            xmax = 53.966
+            text = "har du hæsst så da kann n da liss så gått prøve"
+        intervals [19]:
+            xmin = 53.966
+            xmax = 57.138
+            text = "ja # de kann du jør # va har du gått før a?"
+        intervals [20]:
+            xmin = 57.138
+            xmax = 57.853
+            text = ""
+        intervals [21]:
+            xmin = 57.853
+            xmax = 59.117
+            text = "ja # Tynnset?"
+        intervals [22]:
+            xmin = 59.117
+            xmax = 63.29
+            text = ""
+        intervals [23]:
+            xmin = 63.29
+            xmax = 70.087
+            text = "* ja "
+        intervals [24]:
+            xmin = 70.087
+            xmax = 72.4
+            text = "næi # æ kke sikkert de # næi"
+        intervals [25]:
+            xmin = 72.4
+            xmax = 74.689
+            text = " ja # de æ jævli"
+        intervals [26]:
+            xmin = 74.689
+            xmax = 75.834
+            text = ""
+        intervals [27]:
+            xmin = 75.834
+            xmax = 77.36
+            text = "* ja"
+        intervals [28]:
+            xmin = 77.36
+            xmax = 78.195
+            text = "bra milljø å"
+        intervals [29]:
+            xmin = 78.195
+            xmax = 80.055
+            text = ""
+        intervals [30]:
+            xmin = 80.055
+            xmax = 90.739
+            text = "næ æ de nå mæi ra # å så # æi tæ på aggronomen # F1 M1 å så æ re nåån # fire på anndre åre tru æi "
+        intervals [31]:
+            xmin = 90.739
+            xmax = 91.073
+            text = ""
+        intervals [32]:
+            xmin = 91.073
+            xmax = 94.388
+            text = "å ee # par to-tre føssjte åre"
+        intervals [33]:
+            xmin = 94.388
+            xmax = 99.515
+            text = "* næi de æ kke de"
+        intervals [34]:
+            xmin = 99.515
+            xmax = 100.374
+            text = ""
+        intervals [35]:
+            xmin = 100.374
+            xmax = 103.308
+            text = "* ja"
+        intervals [36]:
+            xmin = 103.308
+            xmax = 104.763
+            text = " sjke n snakke omm"
+        intervals [37]:
+            xmin = 104.763
+            xmax = 107.076
+            text = ""
+        intervals [38]:
+            xmin = 107.076
+            xmax = 107.935
+            text = ""
+        intervals [39]:
+            xmin = 107.935
+            xmax = 109.414
+            text = ""
+        intervals [40]:
+            xmin = 109.414
+            xmax = 112.538
+            text = ""
+        intervals [41]:
+            xmin = 112.538
+            xmax = 116.878
+            text = "* ar de?"
+        intervals [42]:
+            xmin = 116.878
+            xmax = 119.692
+            text = " # byner å bLi rasstløs a?"
+        intervals [43]:
+            xmin = 119.692
+            xmax = 125.296
+            text = " ja åss'n går de"
+        intervals [44]:
+            xmin = 125.296
+            xmax = 125.868
+            text = ""
+        intervals [45]:
+            xmin = 125.868
+            xmax = 130.351
+            text = ""
+        intervals [46]:
+            xmin = 130.351
+            xmax = 131.353
+            text = "ja ja"
+        intervals [47]:
+            xmin = 131.353
+            xmax = 133.642
+            text = ""
+        intervals [48]:
+            xmin = 133.642
+            xmax = 134.954
+            text = "enn inntekkt ja ja"
+        intervals [49]:
+            xmin = 134.954
+            xmax = 139.771
+            text = ""
+        intervals [50]:
+            xmin = 139.771
+            xmax = 147.211
+            text = ""
+        intervals [51]:
+            xmin = 147.211
+            xmax = 148.69
+            text = "ja ja"
+        intervals [52]:
+            xmin = 148.69
+            xmax = 149.906
+            text = ""
+        intervals [53]:
+            xmin = 149.906
+            xmax = 151.241
+            text = "kåssta vell mye å bygge"
+        intervals [54]:
+            xmin = 151.241
+            xmax = 152.005
+            text = ""
+        intervals [55]:
+            xmin = 152.005
+            xmax = 155.487
+            text = "sækks millioner # det # off "
+        intervals [56]:
+            xmin = 155.487
+            xmax = 157.514
+            text = " ja"
+        intervals [57]:
+            xmin = 157.514
+            xmax = 158.039
+            text = ""
+        intervals [58]:
+            xmin = 158.039
+            xmax = 161.163
+            text = ""
+        intervals [59]:
+            xmin = 161.163
+            xmax = 165.909
+            text = " vær måne"
+        intervals [60]:
+            xmin = 165.909
+            xmax = 166.577
+            text = ""
+        intervals [61]:
+            xmin = 166.577
+            xmax = 172.086
+            text = ""
+        intervals [62]:
+            xmin = 172.086
+            xmax = 172.634
+            text = ""
+        intervals [63]:
+            xmin = 172.634
+            xmax = 180.241
+            text = ""
+        intervals [64]:
+            xmin = 180.241
+            xmax = 184.414
+            text = " græit å ikke hadd noe jell å noe # lån å betart da ja"
+        intervals [65]:
+            xmin = 184.414
+            xmax = 189.446
+            text = "* mulihet te å tene inn att ja"
+        intervals [66]:
+            xmin = 189.446
+            xmax = 189.994
+            text = "ja"
+        intervals [67]:
+            xmin = 189.994
+            xmax = 193.69
+            text = "nettopp * æi * æ ikke de"
+        intervals [68]:
+            xmin = 193.69
+            xmax = 194.406
+            text = "næi"
+        intervals [69]:
+            xmin = 194.406
+            xmax = 203.325
+            text = " * ja * går ann de"
+        intervals [70]:
+            xmin = 203.325
+            xmax = 207.808
+            text = "* må rå prøve"
+        intervals [71]:
+            xmin = 207.808
+            xmax = 208.548
+            text = "ja"
+        intervals [72]:
+            xmin = 208.548
+            xmax = 210.503
+            text = "* ja"
+        intervals [73]:
+            xmin = 210.503
+            xmax = 214.223
+            text = ""
+        intervals [74]:
+            xmin = 214.223
+            xmax = 215.535
+            text = ""
+        intervals [75]:
+            xmin = 215.535
+            xmax = 219.828
+            text = "æ ee t- søtti tus'n liter i åre # mjøLLkkvote"
+        intervals [76]:
+            xmin = 219.828
+            xmax = 222.046
+            text = " næi"
+        intervals [77]:
+            xmin = 222.046
+            xmax = 223.739
+            text = ""
+        intervals [78]:
+            xmin = 223.739
+            xmax = 224.955
+            text = ""
+        intervals [79]:
+            xmin = 224.955
+            xmax = 225.528
+            text = "ja"
+        intervals [80]:
+            xmin = 225.528
+            xmax = 234.995
+            text = "* ja * ja"
+        intervals [81]:
+            xmin = 234.995
+            xmax = 242.292
+            text = " * ja off * ja"
+        intervals [82]:
+            xmin = 242.292
+            xmax = 246.775
+            text = ""
+        intervals [83]:
+            xmin = 246.775
+            xmax = 249.207
+            text = ""
+        intervals [84]:
+            xmin = 249.207
+            xmax = 250.924
+            text = ""
+        intervals [85]:
+            xmin = 250.924
+            xmax = 252.283
+            text = "* ska ru sæll n?"
+        intervals [86]:
+            xmin = 252.283
+            xmax = 253.452
+            text = "næi e sa ru sku sæL n"
+        intervals [87]:
+            xmin = 253.452
+            xmax = 254.597
+            text = ""
+        intervals [88]:
+            xmin = 254.597
+            xmax = 255.861
+            text = " mye skar u ha?"
+        intervals [89]:
+            xmin = 255.861
+            xmax = 259.891
+            text = ""
+        intervals [90]:
+            xmin = 259.891
+            xmax = 260.964
+            text = "ja åkei # ja"
+        intervals [91]:
+            xmin = 260.964
+            xmax = 270.264
+            text = " de * ja"
+        intervals [92]:
+            xmin = 270.264
+            xmax = 272.339
+            text = "du ha vell ikke kjørt så hartt me n du såmm "
+        intervals [93]:
+            xmin = 272.339
+            xmax = 276.011
+            text = ""
+        intervals [94]:
+            xmin = 276.011
+            xmax = 281.067
+            text = "ja * de æ klart"
+        intervals [95]:
+            xmin = 281.067
+            xmax = 281.711
+            text = "de æ klart"
+        intervals [96]:
+            xmin = 281.711
+            xmax = 284.501
+            text = " du ta"
+        intervals [97]:
+            xmin = 284.501
+            xmax = 286.504
+            text = ""
+        intervals [98]:
+            xmin = 286.504
+            xmax = 289.986
+            text = "* ja"
+        intervals [99]:
+            xmin = 289.986
+            xmax = 291.584
+            text = "firjusjtrækk så de "
+        intervals [100]:
+            xmin = 291.584
+            xmax = 299.144
+            text = " * ja"
+        intervals [101]:
+            xmin = 299.144
+            xmax = 300.217
+            text = "ja"
+        intervals [102]:
+            xmin = 300.217
+            xmax = 303.269
+            text = ""
+        intervals [103]:
+            xmin = 303.269
+            xmax = 303.746
+            text = "ja"
+        intervals [104]:
+            xmin = 303.746
+            xmax = 307.729
+            text = "* næi"
+        intervals [105]:
+            xmin = 307.729
+            xmax = 312.999
+            text = "* ja"
+        intervals [106]:
+            xmin = 312.999
+            xmax = 313.357
+            text = "ær de?"
+        intervals [107]:
+            xmin = 313.357
+            xmax = 319.486
+            text = " #"
+        intervals [108]:
+            xmin = 319.486
+            xmax = 321.823
+            text = ""
+        intervals [109]:
+            xmin = 321.823
+            xmax = 327.451
+            text = "* ja de æ re"
+        intervals [110]:
+            xmin = 327.451
+            xmax = 328.071
+            text = "ja"
+        intervals [111]:
+            xmin = 328.071
+            xmax = 329.287
+            text = ""
+        intervals [112]:
+            xmin = 329.287
+            xmax = 332.649
+            text = "næi ikke enna menn ha jo bussjda sjette dessemmber så"
+        intervals [113]:
+            xmin = 332.649
+            xmax = 334.008
+            text = " da"
+        intervals [114]:
+            xmin = 334.008
+            xmax = 334.723
+            text = ""
+        intervals [115]:
+            xmin = 334.723
+            xmax = 335.677
+            text = ""
+        intervals [116]:
+            xmin = 335.677
+            xmax = 335.939
+            text = " ?"
+        intervals [117]:
+            xmin = 335.939
+            xmax = 341.495
+            text = " * ja"
+        intervals [118]:
+            xmin = 341.495
+            xmax = 346.026
+            text = ""
+        intervals [119]:
+            xmin = 346.026
+            xmax = 349.269
+            text = "* ja de æ re"
+        intervals [120]:
+            xmin = 349.269
+            xmax = 352.703
+            text = " denn såmm e # ja varrtfall kjedlikkst"
+        intervals [121]:
+            xmin = 352.703
+            xmax = 353.562
+            text = ""
+        intervals [122]:
+            xmin = 353.562
+            xmax = 356.376
+            text = " to fårr så vitt"
+        intervals [123]:
+            xmin = 356.376
+            xmax = 358.26
+            text = ""
+        intervals [124]:
+            xmin = 358.26
+            xmax = 360.692
+            text = "Massda sækks-to-sækks # ve-sækkser "
+        intervals [125]:
+            xmin = 360.692
+            xmax = 364.15
+            text = " ja "
+        intervals [126]:
+            xmin = 364.15
+            xmax = 365.390
+            text = ""
+        intervals [127]:
+            xmin = 365.390
+            xmax = 373.641
+            text = " * ja"
+        intervals [128]:
+            xmin = 373.641
+            xmax = 376.718
+            text = "* ja jorde de"
+        intervals [129]:
+            xmin = 376.718
+            xmax = 380.963
+            text = "je ha kåssta på n litt da fårr dn va litt # litt skral"
+        intervals [130]:
+            xmin = 380.963
+            xmax = 385.279
+            text = ""
+        intervals [131]:
+            xmin = 385.279
+            xmax = 392.648
+            text = "ja de æ re # de æ dyrt å ha bil # værrtfall nårr du # ha n to kåmma fæmm liter bennsin så"
+        intervals [132]:
+            xmin = 392.648
+            xmax = 400.875
+            text = ""
+        intervals [133]:
+            xmin = 400.875
+            xmax = 402.664
+            text = ""
+        intervals [134]:
+            xmin = 402.664
+            xmax = 409.937
+            text = ""
+        intervals [135]:
+            xmin = 409.937
+            xmax = 413.419
+            text = ""
+        intervals [136]:
+            xmin = 413.419
+            xmax = 415.16
+            text = ""
+        intervals [137]:
+            xmin = 415.16
+            xmax = 418.093
+            text = "kannsje bra n ikke har re # ee kannsje"
+        intervals [138]:
+            xmin = 418.093
+            xmax = 427.751
+            text = ""
+        intervals [139]:
+            xmin = 427.751
+            xmax = 428.323
+            text = ""
+        intervals [140]:
+            xmin = 428.323
+            xmax = 434.261
+            text = "* ja"
+        intervals [141]:
+            xmin = 434.261
+            xmax = 435.167
+            text = "ja"
+        intervals [142]:
+            xmin = 435.167
+            xmax = 438.792
+            text = "* sjlemmt"
+        intervals [143]:
+            xmin = 438.792
+            xmax = 439.102
+            text = "ja"
+        intervals [144]:
+            xmin = 439.102
+            xmax = 443.204
+            text = "* ja"
+        intervals [145]:
+            xmin = 443.204
+            xmax = 446.829
+            text = " de?"
+        intervals [146]:
+            xmin = 446.829
+            xmax = 452.004
+            text = "ja * næi * næi"
+        intervals [147]:
+            xmin = 452.004
+            xmax = 453.053
+            text = ""
+        intervals [148]:
+            xmin = 453.053
+            xmax = 456.392
+            text = ""
+        intervals [149]:
+            xmin = 456.392
+            xmax = 458.61
+            text = "ja"
+        intervals [150]:
+            xmin = 458.61
+            xmax = 465.359
+            text = ""
+        intervals [151]:
+            xmin = 465.359
+            xmax = 468.793
+            text = " ..."
+        intervals [152]:
+            xmin = 468.793
+            xmax = 478.237
+            text = ""
+        intervals [153]:
+            xmin = 478.237
+            xmax = 480.741
+            text = "ikke # da ær de no gæLi værrtfall"
+        intervals [154]:
+            xmin = 480.741
+            xmax = 486.512
+            text = " * ja"
+        intervals [155]:
+            xmin = 486.512
+            xmax = 497.482
+            text = ""
+        intervals [156]:
+            xmin = 497.482
+            xmax = 500.105
+            text = " ja ee"
+        intervals [157]:
+            xmin = 500.105
+            xmax = 501.011
+            text = ""
+        intervals [158]:
+            xmin = 501.011
+            xmax = 507.14
+            text = "* næi "
+        intervals [159]:
+            xmin = 507.14
+            xmax = 507.927
+            text = "ja"
+        intervals [160]:
+            xmin = 507.927
+            xmax = 513.269
+            text = "* ja"
+        intervals [161]:
+            xmin = 513.269
+            xmax = 513.984
+            text = ""
+        intervals [162]:
+            xmin = 513.984
+            xmax = 521.544
+            text = ""
+        intervals [163]:
+            xmin = 521.544
+            xmax = 524.787
+            text = ""
+        intervals [164]:
+            xmin = 524.787
+            xmax = 528.651
+            text = "ja ## burde da få litt fårr n"
+        intervals [165]:
+            xmin = 528.651
+            xmax = 531.680
+            text = ""
+        intervals [166]:
+            xmin = 531.680
+            xmax = 535.663
+            text = "ee æ kke helt sikkert si # ny- ..."
+        intervals [167]:
+            xmin = 535.663
+            xmax = 537.523
+            text = "* ja"
+        intervals [168]:
+            xmin = 537.523
+            xmax = 537.762
+            text = "ja"
+        intervals [169]:
+            xmin = 537.762
+            xmax = 541.649
+            text = "* ja"
+        intervals [170]:
+            xmin = 541.649
+            xmax = 548.398
+            text = " ja * ja"
+        intervals [171]:
+            xmin = 548.398
+            xmax = 549.042
+            text = "ja"
+        intervals [172]:
+            xmin = 549.042
+            xmax = 551.451
+            text = ""
+        intervals [173]:
+            xmin = 551.451
+            xmax = 552.691
+            text = "mm"
+        intervals [174]:
+            xmin = 552.691
+            xmax = 555.171
+            text = ""
+        intervals [175]:
+            xmin = 555.171
+            xmax = 556.125
+            text = "næi e vett a faan sjø"
+        intervals [176]:
+            xmin = 556.125
+            xmax = 559.487
+            text = "* ja"
+        intervals [177]:
+            xmin = 559.487
+            xmax = 559.749
+            text = "ja"
+        intervals [178]:
+            xmin = 559.749
+            xmax = 563.898
+            text = ""
+        intervals [179]:
+            xmin = 563.898
+            xmax = 564.447
+            text = "ja"
+        intervals [180]:
+            xmin = 564.447
+            xmax = 572.531
+            text = "* ja"
+        intervals [181]:
+            xmin = 572.531
+            xmax = 574.844
+            text = ""
+        intervals [182]:
+            xmin = 574.844
+            xmax = 578.111
+            text = "* mm"
+        intervals [183]:
+            xmin = 578.111
+            xmax = 581.664
+            text = "å firejusjtrækk # så"
+        intervals [184]:
+            xmin = 581.664
+            xmax = 585.861
+            text = "* ja"
+        intervals [185]:
+            xmin = 585.861
+            xmax = 588.127
+            text = "næi de e ikke nå vitts i å stresse viss du ikke må"
+        intervals [186]:
+            xmin = 588.127
+            xmax = 597.046
+            text = "* ja"
+        intervals [187]:
+            xmin = 597.046
+            xmax = 599.192
+            text = ""
+        intervals [188]:
+            xmin = 599.192
+            xmax = 600.48
+            text = "ja"
+        intervals [189]:
+            xmin = 600.48
+            xmax = 604.701
+            text = "* næi"
+        intervals [190]:
+            xmin = 604.701
+            xmax = 605.249
+            text = "å jør de ja?"
+        intervals [191]:
+            xmin = 605.249
+            xmax = 608.778
+            text = " * næi"
+        intervals [192]:
+            xmin = 608.778
+            xmax = 611.067
+            text = ""
+        intervals [193]:
+            xmin = 611.067
+            xmax = 618.579
+            text = "* ja "
+        intervals [194]:
+            xmin = 618.579
+            xmax = 619.39
+            text = "ja ja"
+        intervals [195]:
+            xmin = 619.39
+            xmax = 624.946
+            text = "* ja"
+        intervals [196]:
+            xmin = 624.946
+            xmax = 626.258
+            text = "ja"
+        intervals [197]:
+            xmin = 626.258
+            xmax = 631.194
+            text = ""
+        intervals [198]:
+            xmin = 631.194
+            xmax = 635.319
+            text = "ja # sjå åss'n de går # å håpe på re besste"
+        intervals [199]:
+            xmin = 635.319
+            xmax = 642.092
+            text = "* ja"
+        intervals [200]:
+            xmin = 642.092
+            xmax = 643.976
+            text = "jess # lennge ha n prata no?"
+        intervals [201]:
+            xmin = 643.976
+            xmax = 646.766
+            text = ""
+        intervals [202]:
+            xmin = 646.766
+            xmax = 648.054
+            text = ""
+        intervals [203]:
+            xmin = 648.054
+            xmax = 653.277
+            text = ""
+        intervals [204]:
+            xmin = 653.277
+            xmax = 654.589
+            text = " prate omm da?"
+        intervals [205]:
+            xmin = 654.589
+            xmax = 658.262
+            text = ""
+        intervals [206]:
+            xmin = 658.262
+            xmax = 658.787
+            text = "dyr"
+        intervals [207]:
+            xmin = 658.787
+            xmax = 660.504
+            text = "* ja"
+        intervals [208]:
+            xmin = 660.504
+            xmax = 663.485
+            text = ""
+        intervals [209]:
+            xmin = 663.485
+            xmax = 668.898
+            text = " * ja"
+        intervals [210]:
+            xmin = 668.898
+            xmax = 672.499
+            text = "næi # vet ikke sjø # ikke æi i værrt fall"
+        intervals [211]:
+            xmin = 672.499
+            xmax = 680.607
+            text = ""
+        intervals [212]:
+            xmin = 680.607
+            xmax = 681.418
+            text = "ja"
+        intervals [213]:
+            xmin = 681.418
+            xmax = 685.854
+            text = ""
+        intervals [214]:
+            xmin = 685.854
+            xmax = 689.932
+            text = ""
+        intervals [215]:
+            xmin = 689.932
+            xmax = 690.743
+            text = ""
+        intervals [216]:
+            xmin = 690.743
+            xmax = 693.223
+            text = "såppass ja"
+        intervals [217]:
+            xmin = 693.223
+            xmax = 694.297
+            text = "ja"
+        intervals [218]:
+            xmin = 694.297
+            xmax = 697.135
+            text = ""
+        intervals [219]:
+            xmin = 697.135
+            xmax = 697.517
+            text = "å ja"
+        intervals [220]:
+            xmin = 697.517
+            xmax = 703.432
+            text = " * åi"
+        intervals [221]:
+            xmin = 703.432
+            xmax = 704.338
+            text = " ?"
+        intervals [222]:
+            xmin = 704.338
+            xmax = 705.53
+            text = ""
+        intervals [223]:
+            xmin = 705.53
+            xmax = 706.198
+            text = "hallt år?"
+        intervals [224]:
+            xmin = 706.198
+            xmax = 710.92
+            text = ""
+        intervals [225]:
+            xmin = 710.92
+            xmax = 713.472
+            text = "hallt år ja å så har du ikke sjett n sjea hell?"
+        intervals [226]:
+            xmin = 713.472
+            xmax = 720.073
+            text = ""
+        intervals [227]:
+            xmin = 720.073
+            xmax = 723.751
+            text = ""
+        intervals [228]:
+            xmin = 723.751
+            xmax = 724.657
+            text = ""
+        intervals [229]:
+            xmin = 724.657
+            xmax = 738.298
+            text = ""
+        intervals [230]:
+            xmin = 738.298
+            xmax = 739.848
+            text = ""
+        intervals [231]:
+            xmin = 739.848
+            xmax = 740.301
+            text = ""
+        intervals [232]:
+            xmin = 740.301
+            xmax = 740.707
+            text = "ja"
+        intervals [233]:
+            xmin = 740.707
+            xmax = 741.709
+            text = ""
+        intervals [234]:
+            xmin = 741.709
+            xmax = 743.998
+            text = "ja # må nesst'n ha litt"
+        intervals [235]:
+            xmin = 743.998
+            xmax = 744.714
+            text = ""
+        intervals [236]:
+            xmin = 744.714
+            xmax = 748.553
+            text = " # de bli jo litt"
+        intervals [237]:
+            xmin = 748.553
+            xmax = 749.888
+            text = ""
+        intervals [238]:
+            xmin = 749.888
+            xmax = 751.939
+            text = " sækks å nitti i timen"
+        intervals [239]:
+            xmin = 751.939
+            xmax = 752.392
+            text = ""
+        intervals [240]:
+            xmin = 752.392
+            xmax = 754.085
+            text = "m"
+        intervals [241]:
+            xmin = 754.085
+            xmax = 755.611
+            text = ""
+        intervals [242]:
+            xmin = 755.611
+            xmax = 756.112
+            text = "ja"
+        intervals [243]:
+            xmin = 756.112
+            xmax = 756.637
+            text = ""
+        intervals [244]:
+            xmin = 756.637
+            xmax = 761.096
+            text = " ..."
+        intervals [245]:
+            xmin = 761.096
+            xmax = 765.603
+            text = "* ja * tene bra der * ja"
+        intervals [246]:
+            xmin = 765.603
+            xmax = 768.918
+            text = ""
+        intervals [247]:
+            xmin = 768.918
+            xmax = 769.371
+            text = "ja"
+        intervals [248]:
+            xmin = 769.371
+            xmax = 772.996
+            text = "* mm"
+        intervals [249]:
+            xmin = 772.996
+            xmax = 779.959
+            text = " jo # gørmye tillegg da # hunndre prossent på sønndager å # ja"
+        intervals [250]:
+            xmin = 779.959
+            xmax = 788.401
+            text = ""
+        intervals [251]:
+            xmin = 788.401
+            xmax = 795.198
+            text = ""
+        intervals [252]:
+            xmin = 795.198
+            xmax = 801.78
+            text = " nårr rømm kann tene"
+        intervals [253]:
+            xmin = 801.78
+            xmax = 806.335
+            text = ""
+        intervals [254]:
+            xmin = 806.335
+            xmax = 811.104
+            text = ""
+        intervals [255]:
+            xmin = 811.104
+            xmax = 814.323
+            text = "* ja"
+        intervals [256]:
+            xmin = 814.323
+            xmax = 817.685
+            text = ""
+        intervals [257]:
+            xmin = 817.685
+            xmax = 824.124
+            text = "* ja"
+        intervals [258]:
+            xmin = 824.124
+            xmax = 825.841
+            text = "ja æi # sæi dæ ru"
+        intervals [259]:
+            xmin = 825.841
+            xmax = 826.437
+            text = ""
+        intervals [260]:
+            xmin = 826.437
+            xmax = 832.28
+            text = " vet ikke helt va # å nårr"
+        intervals [261]:
+            xmin = 832.28
+            xmax = 840.46
+            text = ""
+        intervals [262]:
+            xmin = 840.46
+            xmax = 841.008
+            text = "fær sjå"
+        intervals [263]:
+            xmin = 841.008
+            xmax = 842.582
+            text = ""
+        intervals [264]:
+            xmin = 842.582
+            xmax = 844.108
+            text = " ..."
+        intervals [265]:
+            xmin = 844.108
+            xmax = 845.3
+            text = ""
+        intervals [266]:
+            xmin = 845.3
+            xmax = 848.901
+            text = ""
+        intervals [267]:
+            xmin = 848.901
+            xmax = 849.879
+            text = ""
+        intervals [268]:
+            xmin = 849.879
+            xmax = 852.145
+            text = "ja lysst te å bLi jagepilot menn"
+        intervals [269]:
+            xmin = 852.145
+            xmax = 852.908
+            text = ""
+        intervals [270]:
+            xmin = 852.908
+            xmax = 853.743
+            text = " jævli tøfft"
+        intervals [271]:
+            xmin = 853.743
+            xmax = 855.865
+            text = "* menn ei ..."
+        intervals [272]:
+            xmin = 855.865
+            xmax = 858.464
+            text = " # menn de æ visst ikke så lett"
+        intervals [273]:
+            xmin = 858.464
+            xmax = 865.761
+            text = " * de sjer hæli ut ja"
+        intervals [274]:
+            xmin = 865.761
+            xmax = 868.742
+            text = " ..."
+        intervals [275]:
+            xmin = 868.742
+            xmax = 870.435
+            text = "* ja"
+        intervals [276]:
+            xmin = 870.435
+            xmax = 872.891
+            text = "byner jo opptaksprøver alleree i vinnter da så"
+        intervals [277]:
+            xmin = 872.891
+            xmax = 873.368
+            text = ""
+        intervals [278]:
+            xmin = 873.368
+            xmax = 880.117
+            text = " # å sjå"
+        intervals [279]:
+            xmin = 880.117
+            xmax = 880.618
+            text = ""
+        intervals [280]:
+            xmin = 880.618
+            xmax = 884.124
+            text = "de æ ra ikk- værr'dn går da ikke unner omm ikke # kjemm videre"
+        intervals [281]:
+            xmin = 884.124
+            xmax = 886.056
+            text = "* ja * ee * ee"
+        intervals [282]:
+            xmin = 886.056
+            xmax = 887.748
+            text = "ja"
+        intervals [283]:
+            xmin = 887.748
+            xmax = 893.52
+            text = ""
+        intervals [284]:
+            xmin = 893.52
+            xmax = 899.434
+            text = ""
+        intervals [285]:
+            xmin = 899.434
+            xmax = 900.293
+            text = ""
+        intervals [286]:
+            xmin = 900.293
+            xmax = 905.11
+            text = "æ nåe linngnane såmm på sessjon # sånn æunetesster å sånn "
+        intervals [287]:
+            xmin = 905.11
+            xmax = 905.635
+            text = ""
+        intervals [288]:
+            xmin = 905.635
+            xmax = 907.781
+            text = "så bLi re vell fysisk te sømmærn"
+        intervals [289]:
+            xmin = 907.781
+            xmax = 909.999
+            text = "* så"
+        intervals [290]:
+            xmin = 909.999
+            xmax = 915.961
+            text = "ja # så viss du kjæmm inn da så må ru nå te Uesa etter ett par år"
+        intervals [291]:
+            xmin = 915.961
+            xmax = 920.707
+            text = "* ee * ja"
+        intervals [292]:
+            xmin = 920.707
+            xmax = 926.668
+            text = " de bLi vell åtte te sammen tru e # så "
+        intervals [293]:
+            xmin = 926.668
+            xmax = 927.074
+            text = ""
+        intervals [294]:
+            xmin = 927.074
+            xmax = 931.104
+            text = ""
+        intervals [295]:
+            xmin = 931.104
+            xmax = 934.395
+            text = "* ja * ja"
+        intervals [296]:
+            xmin = 934.395
+            xmax = 939.784
+            text = "de æ re # du fæ jo # gratis utdanning så # fåssjvare betaLe jo allt"
+        intervals [297]:
+            xmin = 939.784
+            xmax = 940.285
+            text = ""
+        intervals [298]:
+            xmin = 940.285
+            xmax = 941.406
+            text = "ja"
+        intervals [299]:
+            xmin = 941.406
+            xmax = 945.604
+            text = "* ja de æ re * bare prøve"
+        intervals [300]:
+            xmin = 945.604
+            xmax = 949.086
+            text = "* taper jo ikke no på re"
+        intervals [301]:
+            xmin = 949.086
+            xmax = 950.421
+            text = "ja # vør tøfft de"
+        intervals [302]:
+            xmin = 950.421
+            xmax = 954.976
+            text = ""
+        intervals [303]:
+            xmin = 954.976
+            xmax = 956.255
+            text = "næi # ha kke hørt omm"
+        intervals [304]:
+            xmin = 956.255
+            xmax = 958.458
+            text = ""
+        intervals [305]:
+            xmin = 958.458
+            xmax = 960.938
+            text = " kke de"
+        intervals [306]:
+            xmin = 960.938
+            xmax = 964.492
+            text = ""
+        intervals [307]:
+            xmin = 964.492
+            xmax = 965.231
+            text = "ja de æ re"
+        intervals [308]:
+            xmin = 965.231
+            xmax = 969.714
+            text = "* ja"
+        intervals [309]:
+            xmin = 969.714
+            xmax = 974.245
+            text = "* ja"
+        intervals [310]:
+            xmin = 974.245
+            xmax = 976.415
+            text = " jo egentli "
+        intervals [311]:
+            xmin = 976.415
+            xmax = 977.011
+            text = ""
+        intervals [312]:
+            xmin = 977.011
+            xmax = 978.537
+            text = ""
+        intervals [313]:
+            xmin = 978.537
+            xmax = 980.97
+            text = ""
+        intervals [314]:
+            xmin = 980.97
+            xmax = 987.576
+            text = ""
+        intervals [315]:
+            xmin = 987.576
+            xmax = 987.934
+            text = "ja"
+        intervals [316]:
+            xmin = 987.934
+            xmax = 992.393
+            text = " næi æ kke så"
+        intervals [317]:
+            xmin = 992.393
+            xmax = 994.348
+            text = ""
+        intervals [318]:
+            xmin = 994.348
+            xmax = 996.916
+            text = ""
+        intervals [319]:
+            xmin = 996.916
+            xmax = 999.07
+            text = " æ kke så jævli mye liv næi"
+        intervals [320]:
+            xmin = 999.07
+            xmax = 1000.501
+            text = ""
+        intervals [321]:
+            xmin = 1000.501
+            xmax = 1001.598
+            text = "ja"
+        intervals [322]:
+            xmin = 1001.598
+            xmax = 1005.294
+            text = "* ja"
+        intervals [323]:
+            xmin = 1005.294
+            xmax = 1006.367
+            text = " jør de"
+        intervals [324]:
+            xmin = 1006.367
+            xmax = 1011.709
+            text = "* mm"
+        intervals [325]:
+            xmin = 1011.709
+            xmax = 1019.645
+            text = " # ikke sjønne åss'n vi klare å bu hær"
+        intervals [326]:
+            xmin = 1019.645
+            xmax = 1026.322
+            text = ""
+        intervals [327]:
+            xmin = 1026.322
+            xmax = 1026.728
+            text = "ja"
+        intervals [328]:
+            xmin = 1026.728
+            xmax = 1030.4
+            text = ""
+        intervals [329]:
+            xmin = 1030.4
+            xmax = 1033.047
+            text = ""
+        intervals [330]:
+            xmin = 1033.047
+            xmax = 1033.882
+            text = "næi æ kke sikkert de"
+        intervals [331]:
+            xmin = 1033.882
+            xmax = 1037.912
+            text = ""
+        intervals [332]:
+            xmin = 1037.912
+            xmax = 1039.462
+            text = " sjå"
+        intervals [333]:
+            xmin = 1039.462
+            xmax = 1040.607
+            text = ""
+        intervals [334]:
+            xmin = 1040.607
+            xmax = 1044.017
+            text = "ja"
+        intervals [335]:
+            xmin = 1044.017
+            xmax = 1045.400
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "jbj"
+        xmin = 0
+        xmax = 1045.400
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0
+            xmax = 646.766
+            text = ""
+        intervals [2]:
+            xmin = 646.766
+            xmax = 648.054
+            text = "prate litt til"
+        intervals [3]:
+            xmin = 648.054
+            xmax = 655.257
+            text = ""
+        intervals [4]:
+            xmin = 655.257
+            xmax = 658.262
+            text = "prate om ee # dyr da"
+        intervals [5]:
+            xmin = 658.262
+            xmax = 1045.400
+            text = ""
