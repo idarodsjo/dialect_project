@@ -207,12 +207,16 @@ marimo/_lsp/
 __marimo__/
 
 # ignore certain dirs
-.repo/did_prosody_whisper-main/backup_datasets/
-.repo/did_prosody_whisper-main/data/
-.repo/did_prosody_whisper-main/model_output/
-.repo/did_prosody_whisper-main/model_output_mt/
+repo/did_prosody_whisper-main/backup_datasets/
+repo/did_prosody_whisper-main/data
+repo/did_prosody_whisper-main/model_output/
+repo/did_prosody_whisper-main/model_output_mt/
 *.png 
 *.jpg
 *.jpeg
 *.log
-.repo/did_prosody_whisper-main/ssc
+repo/did_prosody_whisper-main/ssc
+repo/did_prosody_whisper-main/train_preview.csv
+repo/did_prosody_whisper-main/.gitignore
+repo/did_prosody_whisper-main/nb_whisper_architecture
+repo/did_prosody_whisper-main/nordia_did_traininglog
