@@ -220,3 +220,4 @@ repo/did_prosody_whisper-main/train_preview.csv
 repo/did_prosody_whisper-main/.gitignore
 repo/did_prosody_whisper-main/nb_whisper_architecture
 repo/did_prosody_whisper-main/nordia_did_traininglog
+ndc_speaker_outputs
