@@ -1,0 +1,409 @@
+Region,Kommune,Fylke
+1,Vardø,Finnmark
+1,Vadsø,Finnmark
+1,Hammerfest,Finnmark
+1,Alta,Finnmark
+1,Hasvik,Finnmark
+1,Kvalsund,Finnmark
+1,Måsøy,Finnmark
+1,Nordkapp,Finnmark
+1,Porsanger,Finnmark
+1,Lebesby,Finnmark
+1,Berlevåg,Finnmark
+1,Båtsfjord,Finnmark
+1,Sør-Varanger,Finnmark
+2,Kautokeino,Finnmark
+2,Loppa,Finnmark
+2,Karasjok,Finnmark
+2,Tana,Finnmark
+2,Nesseby,Finnmark
+2,Lyngen,Troms
+2,Storfjord,Troms
+2,Kåfjord,Troms
+2,Skjervøy,Troms
+2,Nordreisa,Troms
+2,Kvænangen,Troms
+3,Tromsø,Troms
+3,Harstad,Troms
+3,Kvæfjord,Troms
+3,Tjeldsund,Troms
+3,Ibestad,Troms
+3,Gratangen,Troms
+3,Lavangen,Troms
+3,Bardu,Troms
+3,Salangen,Troms
+3,Målselv,Troms
+3,Sørreisa,Troms
+3,Dyrøy,Troms
+3,Senja,Troms
+3,Balsfjord,Troms
+3,Karlsøy,Troms
+4,Narvik,Nordland
+4,Tysfjord,Nordland
+4,Lødingen,Nordland
+4,Tjeldsund,Nordland
+4,Evenes,Nordland
+4,Ballangen,Nordland
+4,Bø,Nordland
+4,Øksnes,Nordland
+4,Sortland,Nordland
+4,Andøy,Nordland
+5,Bodø,Nordland
+5,Gildeskål,Nordland
+5,Beiarn,Nordland
+5,Saltdal,Nordland
+5,Fauske,Nordland
+5,Skjerstad,Nordland
+5,Sørfold,Nordland
+5,Steigen,Nordland
+5,Hamarøy,Nordland
+5,Røst,Nordland
+5,Værøy,Nordland
+5,Flakstad,Nordland
+5,Vestvågøy,Nordland
+5,Vågan,Nordland
+5,Hadsel,Nordland
+5,Moskenes,Nordland
+6,Dønna,Nordland
+6,Nesna,Nordland
+6,Hemnes,Nordland
+6,Rana,Nordland
+6,Lurøy,Nordland
+6,Træna,Nordland
+6,Rødøy,Nordland
+6,Meløy,Nordland
+7,Sømna,Nordland
+7,Brønnøy,Nordland
+7,Vega,Nordland
+7,Vevelstad,Nordland
+7,Herøy,Nordland
+7,Alstadhaug,Nordland
+7,Leirfjord,Nordland
+7,Vefsn,Nordland
+7,Grane,Nordland
+7,Hattfjelldal,Nordland
+8,Bindal,Nordland
+8,Namsos,Nord-Trøndelag
+8,Fosnes,Nord-Trøndelag
+8,Flatanger,Nord-Trøndelag
+8,Vikna,Nord-Trøndelag
+8,Nærøy,Nord-Trøndelag
+8,Leka,Nord-Trøndelag
+8,Hemne,Sør-Trøndelag
+8,Snillfjord,Sør-Trøndelag
+8,Hitra,Sør-Trøndelag
+8,Frøya,Sør-Trøndelag
+8,Ørland,Sør-Trøndelag
+8,Agdenes,Sør-Trøndelag
+8,Rissa,Sør-Trøndelag
+8,Bjugn,Sør-Trøndelag
+8,Åfjord,Sør-Trøndelag
+8,Roan,Sør-Trøndelag
+8,Osen,Sør-Trøndelag
+8,Kristansund,Møre og Romsdal
+8,Averøy,Møre og Romsdal
+8,Frei,Møre og Romsdal
+8,Gjemnes,Møre og Romsdal
+8,Tingvoll,Møre og Romsdal
+8,Sunndal,Møre og Romsdal
+8,Surnadal,Møre og Romsdal
+8,Rindal,Møre og Romsdal
+8,Aure,Møre og Romsdal
+8,Halsa,Møre og Romsdal
+8,Tustna,Møre og Romsdal
+8,Smøla,Møre og Romsdal
+9,Steinkjer,Nord-Trøndelag
+9,Meråker,Nord-Trøndelag
+9,Stjørdal,Nord-Trøndelag
+9,Frosta,Nord-Trøndelag
+9,Leksvik,Nord-Trøndelag
+9,Levanger,Nord-Trøndelag
+9,Verdal,Nord-Trøndelag
+9,Mosvik,Nord-Trøndelag
+9,Verran,Nord-Trøndelag
+9,Namdalseid,Nord-Trøndelag
+9,Inderøy,Nord-Trøndelag
+9,Snåsa,Nord-Trøndelag
+9,Lierne,Nord-Trøndelag
+9,Røyrvik,Nord-Trøndelag
+9,Namsskogan,Nord-Trøndelag
+9,Grong,Nord-Trøndelag
+9,Høylandet,Nord-Trøndelag
+9,Overhalla,Nord-Trøndelag
+9,Trondheim,Sør-Trøndelag
+9,Orkdal,Sør-Trøndelag
+9,Melhus,Sør-Trøndelag
+9,Skaun,Sør-Trøndelag
+9,Klæbu,Sør-Trøndelag
+9,Malvik.,Sør-Trøndelag
+10,Oppdal,Sør-Trøndelag
+10,Rennebu,Sør-Trøndelag
+10,Meldal,Sør-Trøndelag
+10,Røros,Sør-Trøndelag
+10,Holtålen,Sør-Trøndelag
+10,MidtreGauldal,Sør-Trøndelag
+10,Selbu,Sør-Trøndelag
+10,Tydal,Sør-Trøndelag
+11,Molde,Møre og Romsdal
+11,Rauma,Møre og Romsdal
+11,Nesset,Møre og Romsdal
+11,Midsund,Møre og Romsdal
+11,Aukra,Møre og Romsdal
+11,Fræna,Møre og Romsdal
+11,Eide,Møre og Romsdal
+12,Selje,Sogn og Fjordane
+12,Ålesund,Møre og Romsdal
+12,Vanylven,Møre og Romsdal
+12,Sande,Møre og Romsdal
+12,Herøy,Møre og Romsdal
+12,Ulstein,Møre og Romsdal
+12,Hareid,Møre og Romsdal
+12,Volda,Møre og Romsdal
+12,Ørsta,Møre og Romsdal
+12,Ørskog,Møre og Romsdal
+12,Norddal,Møre og Romsdal
+12,Stranda,Møre og Romsdal
+12,Stordal,Møre og Romsdal
+12,Sykkylven,Møre og Romsdal
+12,Skodje,Møre og Romsdal
+12,Sula,Møre og Romsdal
+12,Giske,Møre og Romsdal
+12,Haram,Møre og Romsdal
+12,Vestnes,Møre og Romsdal
+12,Sandøy,Møre og Romsdal
+13,Flora,Sogn og Fjordane
+13,Gulen,Sogn og Fjordane
+13,Solund,Sogn og Fjordane
+13,Hyllestad,Sogn og Fjordane
+13,Jølster,Sogn og Fjordane
+13,Førde,Sogn og Fjordane
+13,Naustdal,Sogn og Fjordane
+13,Bremanger,Sogn og Fjordane
+13,Vågsøy,Sogn og Fjordane
+13,Eid,Sogn og Fjordane
+13,Hornindal,Sogn og Fjordane
+13,Gloppen,Sogn og Fjordane
+13,Stryn,Sogn og Fjordane
+13,Høyanger,Sogn og Fjordane
+13,Askvoll,Sogn og Fjordane
+13,Fjaler,Sogn og Fjordane
+13,Gaular,Sogn og Fjordane
+14,Sogndal,Sogn og Fjordane
+14,Balestrand,Sogn og Fjordane
+14,Leikanger,Sogn og Fjordane
+14,Aurland,Sogn og Fjordane
+14,Vik,Sogn og Fjordane
+14,Lærdal,Sogn og Fjordane
+14,Årdal,Sogn og Fjordane
+14,Luster,Sogn og Fjordane
+15,Voss,Hordaland
+15,Granvik,Hordaland
+15,Ulvik,Hordaland
+16,Etne,Hordaland
+16,Sveio,Hordaland
+16,Bømlo,Hordaland
+16,Stord,Hordaland
+16,Fitjar,Hordaland
+16,Tysnes,Hordaland
+16,Kvinnherad,Hordaland
+16,Jondal,Hordaland
+16,Odda,Hordaland
+16,Ullensvang,Hordaland
+16,Eidfjord,Hordaland
+16,Kvam,Hordaland
+16,Fusa,Hordaland
+16,Samnanger,Hordaland
+16,Austevoll,Hordaland
+16,Vaksdal,Hordaland
+16,Modalen,Hordaland
+16,Osterøy,Hordaland
+16,Meland,Hordaland
+16,Øygarden,Hordaland
+16,Radøy,Hordaland
+16,Lindås,Hordaland
+16,Austrheim,Hordaland
+16,Fedje,Hordaland
+16,Masfjorden,Hordaland
+17,Bergen,Hordaland
+17,Askøy,Hordaland
+17,Fjell,Hordaland
+17,Sund,Hordaland
+17,Os,Hordaland
+18,Stavanger,Rogaland
+18,Haugesund,Rogaland
+18,Sandnes,Rogaland
+18,Sokndal,Rogaland
+18,Lund,Rogaland
+18,Bjerkreim,Rogaland
+18,Hå,Rogaland
+18,Klepp,Rogaland
+18,Time,Rogaland
+18,Gjesdal,Rogaland
+18,Sola,Rogaland
+18,Randaberg,Rogaland
+18,Strand,Rogaland
+18,Hjelmeland,Rogaland
+18,Suldal,Rogaland
+18,Sauda,Rogaland
+18,Kvitsøy,Rogaland
+18,Bokn,Rogaland
+18,Tysvær,Rogaland
+18,Karmøy,Rogaland
+18,Utsira,Rogaland
+18,Vindafjord,Rogaland
+19,Mandal,Vest-Agder
+19,Farsund,Vest-Agder
+19,Flekkefjord,Vest-Agder
+19,Vennesla,Vest-Agder
+19,Songdalen,Vest-Agder
+19,Søgne,Vest-Agder
+19,Marnardal,Vest-Agder
+19,Åseral,Vest-Agder
+19,Audnedal,Vest-Agder
+19,Lindesnes,Vest-Agder
+19,Lyngdal,Vest-Agder
+19,Hægebostad,Vest-Agder
+19,Kvinesdal,Vest-Agder
+19,Sirdal,Vest-Agder
+20,Risør,Aust-Agder
+20,Grimstad,Aust-Agder
+20,Arendal,Aust-Agder
+20,Gjerstad,Aust-Agder
+20,Vegårshei,Aust-Agder
+20,Tvedestrand,Aust-Agder
+20,Froland,Aust-Agder
+20,Lillesand,Aust-Agder
+20,Birkenes,Aust-Agder
+20,Åmli,Aust-Agder
+20,Iveland,Aust-Agder
+20,EvjeogHornnes,Aust-Agder
+20,Bygland,Aust-Agder
+20,Valle,Aust-Agder
+20,Bykle,Aust-Agder
+21,Lillehammer,Oppland
+21,Gjøvik,Oppland
+21,Dovre,Oppland
+21,Lesja,Oppland
+21,Skjåk,Oppland
+21,Lom,Oppland
+21,Vågå,Oppland
+21,Nord-Fron,Oppland
+21,Sel,Oppland
+21,Sør-Fron,Oppland
+21,Ringebu,Oppland
+21,Øyer,Oppland
+21,Gausdal,Oppland
+21,ØstreToten,Oppland
+21,VestreToten,Oppland
+21,Jevnaker,Oppland
+21,Lunner,Oppland
+21,Gran,Oppland
+21,SøndreLand,Oppland
+21,NordreLand,Oppland
+21,Sør-Aurdal,Oppland
+21,Etnedal,Oppland
+21,Nord-Aurdal,Oppland
+21,VestreSlidre,Oppland
+21,ØystreSlidre,Oppland
+21,Vang,Oppland
+21,Kongsvinger,Hedmark
+21,Hamar,Hedmark
+21,Ringsaker,Hedmark
+21,Løten,Hedmark
+21,Stange,Hedmark
+21,Nord-Odal,Hedmark
+21,Sør-Odal,Hedmark
+21,Eidskog,Hedmark
+21,Grue,Hedmark
+21,Åsnes,Hedmark
+21,Våler,Hedmark
+21,Elverum,Hedmark
+21,Trysil,Hedmark
+21,Åmot,Hedmark
+21,Stor-Elvdal,Hedmark
+21,Rendalen,Hedmark
+21,Engerdal,Hedmark
+21,Tolga,Hedmark
+21,Tynset,Hedmark
+21,Alvdal,Hedmark
+21,Folldal,Hedmark
+21,Os,Hedmark
+21,Notodden,Telemark
+21,Drangedal,Telemark
+21,Midt-Telemark,Telemark
+21,Seljord,Telemark
+21,Hjartdal,Telemark
+21,Tinn,Telemark
+21,Kviteseid,Telemark
+21,Nissedal,Telemark
+21,Fyresdal,Telemark
+21,Tokke,Telemark
+21,Vinje,Telemark
+21,Ringerike,Buskerud
+21,Hole,Buskerud
+21,Modum,Buskerud
+21,Krødsherad,Buskerud
+21,Flå,Buskerud
+21,Nesbyen,Buskerud
+21,Gol,Buskerud
+21,Hemsedal,Buskerud
+21,Ål,Buskerud
+21,Hol,Buskerud
+21,Sigdal,Buskerud
+21,Flesberg,Buskerud
+21,Rollag,Buskerud
+21,NoreogUvdal,Buskerud
+22,Oslo,Oslo
+22,Bærum,Akershus
+22,Asker,Akershus
+22,Lillestrøm,Akershus
+22,NordreFollo,Akershus
+22,Ullensaker,Akershus
+22,Nesodden,Akershus
+22,Frogn,Akershus
+22,Vestby,Akershus
+22,Ås,Akershus
+22,Enebakk,Akershus
+22,Lørenskog,Akershus
+22,Rælingen,Akershus
+22,Aurskog-Høland,Akershus
+22,Nes,Akershus
+22,Gjerdrum,Akershus
+22,Nittedal,Akershus
+22,Lunner,Akershus
+22,Jevnaker,Akershus
+22,Nannestad,Akershus
+22,Eidsvoll,Akershus
+22,Hurdal,Akershus
+22,Rømskog,Østfold
+23,Horten,Vestfold
+23,Holmestrand,Vestfold
+23,Tønsberg,Vestfold
+23,Sandefjord,Vestfold
+23,Larvik,Vestfold
+23,Færder,Vestfold
+23,Halden,Østfold
+23,Moss,Østfold
+23,Sarpsborg,Østfold
+23,Fredrikstad,Østfold
+23,Hvaler,Østfold
+23,Råde,Østfold
+23,Våler,Østfold
+23,Skiptvet,Østfold
+23,IndreØstfold,Østfold
+23,Rakkestad,Østfold
+23,Marker,Østfold
+23,Aremark,Østfold
+23,Porsgrunn,Telemark
+23,Skien,Telemark
+23,Bamble,Telemark
+23,Kragerø,Telemark
+23,Siljan,Telemark
+23,Nome,Telemark
+23,Kongsberg,Buskerud
+23,ØvreEiker,Buskerud
+23,NedreEiker,Buskerud
+23,Drammen,Buskerud
+23,Lier,Buskerud
+23,Røyken,Buskerud
+23,Hurum,Buskerud

@@ -1,0 +1,21 @@
+Geographic Center Summary
+========================
+
+Number of input rows/locations: 10159
+Number of unique coordinates: 107
+
+Geographic center (computed from unique coordinates):
+Latitude:  62.741861
+Longitude: 11.447117
+
+Mean distance from unique locations to center: 416.720 km
+
+Three longest distances:
+1. speaker_id=vardoe_01um | distance_km=1197.560 | latitude=70.330816 | longitude=30.961821
+2. speaker_id=kirkenes_03gm | distance_km=1108.741 | latitude=69.537566 | longitude=29.726137
+3. speaker_id=tana_04gk | distance_km=1103.701 | latitude=70.282334 | longitude=27.891327
+
+Three shortest distances:
+1. speaker_id=roeros_02uk | distance_km=22.045 | latitude=62.569515 | longitude=11.660441
+2. speaker_id=dalsbygda_04gk | distance_km=36.375 | latitude=62.415186 | longitude=11.409663
+3. speaker_id=selbu_03gm | distance_km=50.353 | latitude=63.175425 | longitude=11.159626

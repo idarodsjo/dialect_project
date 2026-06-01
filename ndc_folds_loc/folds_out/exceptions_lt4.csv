@@ -1,0 +1,8 @@
+speaker_id,place,sex,age_group,dialect_region,fg_dialect_region,latitude,longitude,exception_reason
+karlsoey_01um,Karlsøy,M,A,north,Troms-Finnmarks-mål,70.2451652,19.189779,place_has_<4_speakers
+karlsoey_02uk,Karlsøy,F,A,north,Troms-Finnmarks-mål,70.2451652,19.189779,place_has_<4_speakers
+karlsoey_03gm,Karlsøy,M,B,north,Troms-Finnmarks-mål,70.2451652,19.189779,place_has_<4_speakers
+kvam_03gm,Kvam,M,B,west,Sørvestlandsk,61.6649478,9.6877468,place_has_<4_speakers
+kvam_04gk,Kvam,F,B,west,Sørvestlandsk,61.6649478,9.6877468,place_has_<4_speakers
+vestre_slidre_03gm,Vestre Slidre,M,B,east,Midlandsk,61.0533525,8.9256654,place_has_<4_speakers
+vestre_slidre_04gk,Vestre Slidre,F,B,east,Midlandsk,61.0533525,8.9256654,place_has_<4_speakers

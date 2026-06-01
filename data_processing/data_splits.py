@@ -81,11 +81,11 @@ def main():
     # Normalize county name in metadata ("area" = county)
     if "area" not in meta.columns:
         raise KeyError("Metadata missing 'area' column (county).")
-    meta["area_norm"] = norm_series(meta["area"])  # area ~ county  [1](https://studntnu-my.sharepoint.com/personal/idatro_ntnu_no/Documents/Microsoft%20Copilot%20Chat%20Files/data_splits.py)
+    meta["area_norm"] = norm_series(meta["area"])  # area ~ county  
 
     # Build county -> dialect_region lookup from mapping CSV
-    county_cols = ["old_county", "new_county", "new_county_2024"]   # county fields in mapper  [2](https://studntnu-my.sharepoint.com/personal/idatro_ntnu_no/Documents/Microsoft%20Copilot%20Chat%20Files/NDC_norge_metadata.tsv)
-    county_map = build_county_to_region(mapdf, county_cols, value_col="cardinal_four")  # target dialect region  [2](https://studntnu-my.sharepoint.com/personal/idatro_ntnu_no/Documents/Microsoft%20Copilot%20Chat%20Files/NDC_norge_metadata.tsv)
+    county_cols = ["old_county", "new_county", "new_county_2024"]   # county fields in mapper  
+    county_map = build_county_to_region(mapdf, county_cols, value_col="cardinal_four")  # target dialect region  
 
     # Join (left) by normalized county
     out = meta.merge(county_map, how="left", left_on="area_norm", right_on="county_norm")

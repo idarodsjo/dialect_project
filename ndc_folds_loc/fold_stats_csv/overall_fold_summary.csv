@@ -1,0 +1,6 @@
+﻿label,source_file,n_segments,n_speakers,missing_duration_segments,total_hours,mean_duration_sec,median_duration_sec,std_duration_sec,min_duration_sec,p10_duration_sec,p25_duration_sec,p75_duration_sec,p90_duration_sec,max_duration_sec,iqr_duration_sec
+exceptions,/home/idatro/dialect_project/ndc_folds_loc/fold_pkls/exceptions_lt4.pkl,155,7,0,1.2599158333333333,29.26256129032258,30.0,3.326487680242258,9.44,30.0,30.0,30.0,30.0,30.0,0.0
+fold_1,/home/idatro/dialect_project/ndc_folds_loc/fold_pkls/fold1.pkl,2417,109,0,19.41067333333333,28.911222176251552,30.0,4.263826975172655,3.006,30.0,30.0,30.0,30.0,30.0,0.0
+fold_2,/home/idatro/dialect_project/ndc_folds_loc/fold_pkls/fold2.pkl,2564,108,0,20.6401275,28.979898205928233,30.0,4.124799453308766,3.225,30.0,30.0,30.0,30.0,30.0,0.0
+fold_3,/home/idatro/dialect_project/ndc_folds_loc/fold_pkls/fold3.pkl,2592,111,0,20.841627499999998,28.946704861111108,30.0,4.291717506098144,3.094,30.0,30.0,30.0,30.0,30.0,0.0
+fold_4,/home/idatro/dialect_project/ndc_folds_loc/fold_pkls/fold4.pkl,2431,109,0,19.583999166666665,29.001397367338544,30.0,4.124850960976005,3.094,30.0,30.0,30.0,30.0,30.0,0.0
